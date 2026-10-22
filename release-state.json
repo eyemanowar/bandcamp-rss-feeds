@@ -7386,6 +7386,31 @@
         "https://sabotagerecords.bandcamp.com/album/wax-minds-funatic-asylum-10",
         "https://sabotagerecords.bandcamp.com/track/echo-is-your-love-keep-your-feet-warm"
       ]
+    },
+    "1786054052": {
+      "name": "italianbeachbabes",
+      "url": "https://italianbeachbabes.bandcamp.com/music",
+      "releases": []
+    },
+    "3644951565": {
+      "name": "Night Sins",
+      "url": "https://nightsins.bandcamp.com/music",
+      "releases": []
+    },
+    "459883292": {
+      "name": "The Native Sound",
+      "url": "https://thenativesound.bandcamp.com/music",
+      "releases": []
+    },
+    "2709132502": {
+      "name": "DEAD GHOSTS",
+      "url": "https://deadghosts.bandcamp.com/music",
+      "releases": []
+    },
+    "450199960": {
+      "name": "RIPS",
+      "url": "https://ripss.bandcamp.com/music",
+      "releases": []
     }
   },
   "digests": [],
@@ -9166,6 +9191,7 @@
     "https://forza-music.bandcamp.com/album/forza-07?label=2319455359&tab=music",
     "https://forza-music.bandcamp.com/album/forza-08?label=2319455359&tab=music",
     "https://forza-music.bandcamp.com/album/forza-09?label=2319455359&tab=music",
+    "https://frankierose.bandcamp.com/album/hila",
     "https://freakfriendlydiy.bandcamp.com/album/--2",
     "https://freakfriendlydiy.bandcamp.com/album/asian-women-on-the-telephone-ivan",
     "https://freakfriendlydiy.bandcamp.com/album/colossus",
@@ -11698,6 +11724,7 @@
     "https://throughloverec.bandcamp.com/album/the-full-weight-of-everything",
     "https://throughloverec.bandcamp.com/album/todas-las-cosas-que-nos-salieron-mal",
     "https://tiarosa.bandcamp.com/album/misterio-lounge-3000-2?label=3399399873&tab=music",
+    "https://tithepdx.bandcamp.com/album/communion-in-anguish?label=1058594804&tab=music",
     "https://tofusmell.bandcamp.com/album/all-my-time?label=798904330&tab=music",
     "https://tofusmell.bandcamp.com/album/me-tomorrow?label=798904330&tab=music",
     "https://tomatenplatten.bandcamp.com/album/architektur-ist-so-langweilig-just-teen",
@@ -12198,11 +12225,5 @@
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
   "last_checked": "2026-10-22T09:25:27.574798+00:00",
-  "failed_catalogues": [
-    "https://italianbeachbabes.bandcamp.com/music",
-    "https://nightsins.bandcamp.com/music",
-    "https://thenativesound.bandcamp.com/music",
-    "https://deadghosts.bandcamp.com/music",
-    "https://ripss.bandcamp.com/music"
-  ]
+  "failed_catalogues": []
 }

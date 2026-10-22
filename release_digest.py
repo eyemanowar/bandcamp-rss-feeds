@@ -99,7 +99,7 @@ def catalogue(band):
             if urlparse(url).path.startswith(('/album/', '/track/')):
                 title = soup.select_one('.trackTitle')
                 releases[url] = title.get_text(strip=True) if title else soup.title.get_text()
-    if not releases and not soup.select_one('#music-grid, ol.music-grid'):
+    if not releases and not soup.select_one('#music-grid, ol.music-grid, .stub-page-content'):
         raise RuntimeError('No recognizable music catalogue; preserving previous baseline')
     return releases
 
