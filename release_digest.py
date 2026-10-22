@@ -65,6 +65,13 @@ def following():
 
 def catalogue(band):
     soup = BeautifulSoup(fetch(band['url']), 'html.parser')
+    # Bandcamp sometimes returns a plain HTML redirect for a single-release artist.
+    if soup.get_text().startswith('You are being redirected'):
+        target = soup.select_one('a[href]')
+        url = urljoin(band['url'], target['href']) if target else ''
+        parsed = urlparse(url)
+        if parsed.scheme == 'https' and parsed.hostname == urlparse(band['url']).hostname:
+            soup = BeautifulSoup(fetch(url), 'html.parser')
     if not soup.title or any(s in soup.title.get_text().lower() for s in ('client challenge', 'just a moment')):
         raise RuntimeError('Bandcamp returned a challenge')
     releases = {}
@@ -74,7 +81,7 @@ def catalogue(band):
             title = a.select_one('.title') or a
             releases[url] = ' '.join(title.stripped_strings) or url.rsplit('/', 1)[-1]
     # Some artists redirect /music to their sole release.
-    if not releases and soup.select_one('script[data-tralbum]'):
+    if not releases and soup.select_one('.trackTitle'):
         canonical = soup.select_one('link[rel="canonical"], meta[property="og:url"]')
         if canonical:
             url = canonical.get('href') or canonical.get('content')
