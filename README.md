@@ -1,38 +1,35 @@
-# bandcamp-rss-feeds
-A repo that generates personalized RSS feeds pointing to Bandcamp featuring releases from those you are following, wishlist updates, following updates and collection updates (purchases), all compounded daily into 1 RSS feed summary.
+# Daily Bandcamp releases for eyemanowar
 
-# Setup
+Feed: https://raw.githubusercontent.com/oleksiikol/bandcamp-rss-feeds/main/feed.xml
 
-First, fork the repo. Be sure to keep at least the `main` and the `rss` branches in your fork. Be sure to sync both branches in your fork when there is an update. It is highly likely that you will encounter merge conflicts when syncing the `rss` branch. As an alternative, you may merge any changes on `main` into your `rss` branch (this repo will keep those branches in sync behaviorally and your fork should also).
+Add this URL as a subscription in your RSS reader. The workflow checks the public
+Bandcamp profile https://bandcamp.com/eyemanowar and its followed artists and labels
+daily at 06:17 UTC (07:17 Warsaw in winter; 08:17 in summer). GitHub may delay scheduled runs.
 
-This generator looks at bandcamp users listed in the `users.ssf`, with the following format:
+The first successful catalogue check establishes a baseline. Existing music is not
+announced as new. Newly followed artists and labels are baselined the same way.
+Subsequent additions to a catalogue appear in one digest per UTC day. Releases are
+deduplicated by URL across artists and labels. Preorders appear when added to the
+catalogue; this does not send a second alert on their release date. Wishlist,
+purchases, merchandise and artist messages are excluded.
 
-```
-{username} {fan_id}
-```
+The feed retains 180 nonempty daily digests. A welcome item confirms the initial
+feed is ready. Public release-state.json stores catalogue baselines, seen URLs,
+last check time and any failed catalogue URLs. No Bandcamp password is needed.
+The repo, followed artist URLs and feed are public.
 
-Where username is the user's slug according to the url of your profile's homepage: `https://bandcamp.com/username` (the former example's username is "username"). The `fan_id` is the internal ID that bandcamp assigns to each user. The `fan_id` is optional and this project will automatically find it for you and write it in the `users.ssf` file after the first run. You can specify multiple users (one per-line) in the `user.ssf` file if you want to recieve updates for multiple users (this repo currently has 2 listed).
+## Operations
 
-Once you have at least the username value in the `users.ssf` file, the `user_orchestrator.py` file will run daily via the GitHub action. All updates from runs are found in the `rss` branch and not on the `main` branch, but the action yaml itself can be found on the `main` branch.
+Open Actions > Daily Bandcamp releases to inspect checks or select Run workflow.
+Failed catalogue checks preserve their previous baseline and generate workflow
+warnings. Healthy catalogues still update; failed catalogues retry on the next run.
+If the profile or all catalogues fail, the run fails without overwriting state.
+Bandcamp HTML/API changes or blocking may require maintenance.
 
-The final RSS file can be viewed at `bandcamp-rss-feeds/rss/final.rss`. It's recommended that you use the "raw" version of the RSS file, dependent on how your RSS reader of choice works. For Discord, I've used [MonitoRSS](https://github.com/synzen/monitorss).
+Daily state commits keep the repository active. GitHub may nevertheless disable
+scheduled workflows in public repositories after 60 days without activity; check
+Actions if updates stop. Scheduled workflows in forks must be enabled explicitly.
 
-# Features
-This tool creates an RSS feed for the following "actions" that can occur related to a users bandcamp account, scheduled daily through a github action.
-- Wishlist Updates (from https://bandcamp.com/{user}/wishlist)
-  - Does not track "un-wishlisted" releases
-- Following Updates (from https://bandcamp.com/{user}/following/artists_and_labels)
-  - Does not track "un-followed" artists
-- Collection Updates (from https://bandcamp.com/{user})
-- Release Updates (from all artist hompages on bandcamp)
-  - Only notifies for artists you follow
-  - If you follow an artist, all releases on that day will not appear as new.
-    - Any releases released after the day of following a new artist will appear
--  Bandcamp Friday Notifications [ :warning: Not consistently working]
-   - User-independent and based on the official https://isitbandcampfriday.com/ website
-
-# Contribution Guidelines
-
-This repository was created without the assistance of generative AI (where possible of course since Google/GitHub have added features) for increased reliability and security. Considering that this repository has no real monetary benefits or deadlines, I find it unethical to use generative AI for such a project. As such, this repo will not accept PRs created by generative AI, even if the code appears to be correct. If I wanted to use an LLM for this project, I would have done so myself, I don't need someone else to do that for me.
-
-That said, if you are a human and want to learn, I will be happy to assist you! PRs don't need to be perfect if you have ethical significance!
+This personal fork is based on https://github.com/JeffreyGaydos/bandcamp-rss-feeds.
+The release-only workflow uses release_digest.py; original upstream scripts remain
+for reference and are not scheduled. Do not merge upstream workflow files blindly.
