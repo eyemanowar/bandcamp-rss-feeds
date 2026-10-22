@@ -23,15 +23,26 @@ last_request = 0.0
 
 def fetch(url, payload=None):
     global last_request
-    with lock:
-        time.sleep(max(0, 0.7 - (time.monotonic() - last_request)))
-        last_request = time.monotonic()
-    cmd = ['curl', '--fail', '--silent', '--show-error', '--location',
-           '--max-time', '40', '--retry', '2', '--retry-delay', '3',
-           '--user-agent', UA, url]
-    if payload is not None:
-        cmd += ['--data', json.dumps(payload)]
-    return subprocess.run(cmd, check=True, capture_output=True, text=True).stdout
+    for attempt in range(4):
+        with lock:
+            time.sleep(max(0, last_request + 2.0 - time.monotonic()))
+            last_request = time.monotonic()
+        cmd = ['curl', '--fail', '--silent', '--show-error', '--location',
+               '--max-time', '40', '--write-out', '\n%{http_code}', '--user-agent', UA, url]
+        if payload is not None:
+            cmd += ['--data', json.dumps(payload)]
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        body, _, status = result.stdout.rpartition('\n')
+        if result.returncode == 0 and status.startswith('2'):
+            return body
+        if status == '429' or status.startswith('5') or status == '000':
+            # Share the cooldown across workers; do not keep hitting rate limits.
+            with lock:
+                last_request = max(last_request, time.monotonic() + 60 * (attempt + 1))
+            if attempt < 3:
+                continue
+        raise RuntimeError(f'HTTP {status}: {result.stderr.strip()[:160]} ({url})')
+    raise RuntimeError(f'Request retries exhausted: {url}')
 
 
 def following():
