@@ -753,6 +753,7 @@
         "https://flennen.bandcamp.com/album/iii-2",
         "https://flennen.bandcamp.com/album/mirage-ep",
         "https://flennen.bandcamp.com/album/no-jobs",
+        "https://flennen.bandcamp.com/album/originalton-west",
         "https://flennen.bandcamp.com/album/reloaded",
         "https://flennen.bandcamp.com/album/s-t-2",
         "https://flennen.bandcamp.com/album/s-t-4",
@@ -1836,6 +1837,7 @@
         "https://siie.bandcamp.com/album/indigo?label=2685981971&tab=music",
         "https://siie.bandcamp.com/album/sabotage-remixes?label=2685981971&tab=music",
         "https://thesecretfrenchpostcards.bandcamp.com/track/shame?label=2685981971&tab=music",
+        "https://vexagon.bandcamp.com/album/children-without-a-god?label=2685981971&tab=music",
         "https://vexagon.bandcamp.com/track/psalm-zero?label=2685981971&tab=music"
       ]
     },
@@ -7413,7 +7415,24 @@
       "releases": []
     }
   },
-  "digests": [],
+  "digests": [
+    {
+      "day": "2026-10-23",
+      "pubDate": "Fri, 23 Oct 2026 07:23:05 GMT",
+      "releases": [
+        {
+          "url": "https://flennen.bandcamp.com/album/originalton-west",
+          "title": "Originalton West Narkose",
+          "source": "Flennen"
+        },
+        {
+          "url": "https://vexagon.bandcamp.com/album/children-without-a-god?label=2685981971&tab=music",
+          "title": "Children Without A God VEXAGON",
+          "source": "COLD TRANSMISSION MUSIC"
+        }
+      ]
+    }
+  ],
   "seen": [
     "https://04amservice-poshisolation.bandcamp.com/album/service-1?label=263068548&tab=music",
     "https://0karr.bandcamp.com/album/--2",
@@ -9113,6 +9132,7 @@
     "https://flennen.bandcamp.com/album/iii-2",
     "https://flennen.bandcamp.com/album/mirage-ep",
     "https://flennen.bandcamp.com/album/no-jobs",
+    "https://flennen.bandcamp.com/album/originalton-west",
     "https://flennen.bandcamp.com/album/reloaded",
     "https://flennen.bandcamp.com/album/s-t-2",
     "https://flennen.bandcamp.com/album/s-t-4",
@@ -12070,6 +12090,7 @@
     "https://verboden.bandcamp.com/album/verboden-2017-compilation-of-artists",
     "https://verboden.bandcamp.com/album/verboden-2018-compilation-of-artists",
     "https://verboden.bandcamp.com/album/verboden-2019-compilation-of-artists",
+    "https://vexagon.bandcamp.com/album/children-without-a-god?label=2685981971&tab=music",
     "https://vexagon.bandcamp.com/track/psalm-zero?label=2685981971&tab=music",
     "https://vofa.bandcamp.com/album/pi05-05?label=1730820773&tab=music",
     "https://volarrecords.bandcamp.com/album/d-wrex-s-t-ep",
@@ -12224,6 +12245,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-22T09:25:27.574798+00:00",
+  "last_checked": "2026-10-23T07:23:05.773727+00:00",
   "failed_catalogues": []
 }
