@@ -4,7 +4,7 @@ Feed: https://raw.githubusercontent.com/eyemanowar/bandcamp-rss-feeds/main/feed.
 
 Add this URL as a subscription in your RSS reader. The workflow checks the public
 Bandcamp profile https://bandcamp.com/eyemanowar and its followed artists and labels
-daily at 06:17 UTC (07:17 Warsaw in winter; 08:17 in summer). GitHub may delay or drop scheduled runs. Fallback attempts at 07:29, 10:17 and 12:17 UTC retry missed or incomplete checks; they skip the scan after a complete check that day. Manual runs always scan.
+daily at 06:17 UTC (07:17 Warsaw in winter; 08:17 in summer). GitHub may delay or drop scheduled runs. Fallback attempts at 07:31, 10:17 and 12:17 UTC retry missed or incomplete checks; they skip the scan after a complete check that day. Manual runs always scan.
 
 The first successful catalogue check establishes a baseline. Existing music is not
 announced as new. Newly followed artists and labels are baselined the same way.

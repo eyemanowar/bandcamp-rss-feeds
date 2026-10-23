@@ -2,7 +2,7 @@ name: Daily Bandcamp releases
 on:
   schedule:
     - cron: '17 6,10,12 * * *'
-    - cron: '29 7 * * *'
+    - cron: '31 7 * * *'
   workflow_dispatch:
 permissions:
   contents: write
