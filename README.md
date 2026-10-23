@@ -1,6 +1,6 @@
 # Daily Bandcamp releases for eyemanowar
 
-Feed: https://raw.githubusercontent.com/oleksiikol/bandcamp-rss-feeds/main/feed.xml
+Feed: https://raw.githubusercontent.com/eyemanowar/bandcamp-rss-feeds/main/feed.xml
 
 Add this URL as a subscription in your RSS reader. The workflow checks the public
 Bandcamp profile https://bandcamp.com/eyemanowar and its followed artists and labels
