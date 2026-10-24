@@ -183,6 +183,7 @@
         "https://martaforsberg.bandcamp.com/album/archaeology-of-intimacy?label=1845603793&tab=music",
         "https://mu-tate.bandcamp.com/album/wanting-less?label=1845603793&tab=music",
         "https://robwinstone.bandcamp.com/album/butterflies?label=1845603793&tab=music",
+        "https://vilhelmbromander.bandcamp.com/album/aurora-ii?label=1845603793&tab=music",
         "https://warmwintersltd.bandcamp.com/album/modfase",
         "https://warmwintersltd.bandcamp.com/album/neither-in-the-sky-nor-on-the-ground",
         "https://warmwintersltd.bandcamp.com/album/ww050-mixtape",
@@ -7431,6 +7432,17 @@
           "source": "COLD TRANSMISSION MUSIC"
         }
       ]
+    },
+    {
+      "day": "2026-10-24",
+      "pubDate": "Sat, 24 Oct 2026 11:01:33 GMT",
+      "releases": [
+        {
+          "url": "https://vilhelmbromander.bandcamp.com/album/aurora-ii?label=1845603793&tab=music",
+          "title": "Aurora II Vilhelm Bromander",
+          "source": "Warm Winters Ltd."
+        }
+      ]
     }
   ],
   "seen": [
@@ -12092,6 +12104,7 @@
     "https://verboden.bandcamp.com/album/verboden-2019-compilation-of-artists",
     "https://vexagon.bandcamp.com/album/children-without-a-god?label=2685981971&tab=music",
     "https://vexagon.bandcamp.com/track/psalm-zero?label=2685981971&tab=music",
+    "https://vilhelmbromander.bandcamp.com/album/aurora-ii?label=1845603793&tab=music",
     "https://vofa.bandcamp.com/album/pi05-05?label=1730820773&tab=music",
     "https://volarrecords.bandcamp.com/album/d-wrex-s-t-ep",
     "https://volarrecords.bandcamp.com/album/jay-reatard-lindsay-shutt-in-heaven-lady-in-the-radiator-song-from-david-lynchs-eraserhead-b-w-cody-blanchard-shannon-and-the-clams-i-dont-want-to-go-down-to-the-basement-the-ramones-cover",
@@ -12245,6 +12258,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-23T07:23:05.773727+00:00",
+  "last_checked": "2026-10-24T11:01:33.592046+00:00",
   "failed_catalogues": []
 }
