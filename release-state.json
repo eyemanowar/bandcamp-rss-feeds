@@ -1027,6 +1027,7 @@
         "https://discreetmusicgbg.bandcamp.com/album/f-rlorarnas-natt",
         "https://discreetmusicgbg.bandcamp.com/album/guitars-infernal",
         "https://discreetmusicgbg.bandcamp.com/album/gwethilu-songs-for-the-dark-lake",
+        "https://discreetmusicgbg.bandcamp.com/album/kaksin",
         "https://discreetmusicgbg.bandcamp.com/album/kite",
         "https://discreetmusicgbg.bandcamp.com/album/last",
         "https://discreetmusicgbg.bandcamp.com/album/live-at-somewhere",
@@ -1476,6 +1477,7 @@
       "name": "Coniferous Myst",
       "url": "https://conifmyst.bandcamp.com/music",
       "releases": [
+        "https://conifmyst.bandcamp.com/album/beasts-beneath-the-forest-tavern",
         "https://conifmyst.bandcamp.com/album/bravery-honor",
         "https://conifmyst.bandcamp.com/album/demo-iii-oath-of-a-valiant-fellowship",
         "https://conifmyst.bandcamp.com/album/fletchings-of-victory",
@@ -6331,7 +6333,8 @@
         "https://illuminatedpaths.bandcamp.com/album/promised-land",
         "https://illuminatedpaths.bandcamp.com/album/resident-strangers",
         "https://illuminatedpaths.bandcamp.com/album/sci-fi-cues-vol-3-vol-4",
-        "https://illuminatedpaths.bandcamp.com/album/split-c20"
+        "https://illuminatedpaths.bandcamp.com/album/split-c20",
+        "https://illuminatedpaths.bandcamp.com/track/powd-h-er-beats-8min-33-43"
       ]
     },
     "1422117120": {
@@ -7443,6 +7446,27 @@
           "source": "Warm Winters Ltd."
         }
       ]
+    },
+    {
+      "day": "2026-10-26",
+      "pubDate": "Mon, 26 Oct 2026 13:03:39 GMT",
+      "releases": [
+        {
+          "url": "https://discreetmusicgbg.bandcamp.com/album/kaksin",
+          "title": "Kaksin Juho Toivonen",
+          "source": "Discreet Music"
+        },
+        {
+          "url": "https://conifmyst.bandcamp.com/album/beasts-beneath-the-forest-tavern",
+          "title": "Beasts Beneath The Forest Tavern Forsaken Kingdoms / Klyvr",
+          "source": "Coniferous Myst"
+        },
+        {
+          "url": "https://illuminatedpaths.bandcamp.com/track/powd-h-er-beats-8min-33-43",
+          "title": "POWD(H)ER BEATS 8min -3.3-4.3- BLACK WICK",
+          "source": "Illuminated Paths"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8381,6 +8405,7 @@
     "https://coldinberlin.bandcamp.com/album/wounds",
     "https://coldtransmissionmusic.bandcamp.com/album/cold-transmission-festival-2026",
     "https://concretelawn.bandcamp.com/album/concrete-lawn?label=3339347384&tab=music",
+    "https://conifmyst.bandcamp.com/album/beasts-beneath-the-forest-tavern",
     "https://conifmyst.bandcamp.com/album/bravery-honor",
     "https://conifmyst.bandcamp.com/album/demo-iii-oath-of-a-valiant-fellowship",
     "https://conifmyst.bandcamp.com/album/fletchings-of-victory",
@@ -8804,6 +8829,7 @@
     "https://discreetmusicgbg.bandcamp.com/album/f-rlorarnas-natt",
     "https://discreetmusicgbg.bandcamp.com/album/guitars-infernal",
     "https://discreetmusicgbg.bandcamp.com/album/gwethilu-songs-for-the-dark-lake",
+    "https://discreetmusicgbg.bandcamp.com/album/kaksin",
     "https://discreetmusicgbg.bandcamp.com/album/kite",
     "https://discreetmusicgbg.bandcamp.com/album/last",
     "https://discreetmusicgbg.bandcamp.com/album/live-at-somewhere",
@@ -9631,6 +9657,7 @@
     "https://illuminatedpaths.bandcamp.com/album/resident-strangers",
     "https://illuminatedpaths.bandcamp.com/album/sci-fi-cues-vol-3-vol-4",
     "https://illuminatedpaths.bandcamp.com/album/split-c20",
+    "https://illuminatedpaths.bandcamp.com/track/powd-h-er-beats-8min-33-43",
     "https://imperialleatherband.bandcamp.com/album/imperial-leather-2?label=2926322866&tab=music",
     "https://inalonelyplace.bandcamp.com/album/diverse",
     "https://inalonelyplace.bandcamp.com/album/mess",
@@ -12258,6 +12285,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-25T11:30:15.826803+00:00",
+  "last_checked": "2026-10-26T13:03:39.607592+00:00",
   "failed_catalogues": []
 }
