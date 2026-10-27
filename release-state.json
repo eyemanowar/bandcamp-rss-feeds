@@ -132,6 +132,7 @@
         "https://casaamarela.bandcamp.com/album/ao-ser-sereno",
         "https://casaamarela.bandcamp.com/album/at-ease-under-a-falling-heaven",
         "https://casaamarela.bandcamp.com/album/between-summer-now-a-fragmented-diary-of-depression",
+        "https://casaamarela.bandcamp.com/album/brilhos",
         "https://casaamarela.bandcamp.com/album/hiver-profond",
         "https://casaamarela.bandcamp.com/album/july-2024-montemor-o-novo",
         "https://casaamarela.bandcamp.com/album/local-maxima",
@@ -481,6 +482,7 @@
         "https://maryannespolarrig.bandcamp.com/album/and-the-sound-of-speed?label=1619499676&tab=music",
         "https://maryannespolarrig.bandcamp.com/track/feel-the-future?label=1619499676&tab=music",
         "https://perocholof.bandcamp.com/album/jag-gl-mde-n-t-hos-dig?label=1619499676&tab=music",
+        "https://ramalama.bandcamp.com/album/rama-lama-records-2016-2026",
         "https://ramalama.bandcamp.com/album/rama-lama-records-2025",
         "https://valoato.bandcamp.com/track/1-1-2?label=1619499676&tab=music"
       ]
@@ -752,6 +754,7 @@
         "https://flennen.bandcamp.com/album/flennen-no-16",
         "https://flennen.bandcamp.com/album/good-people-doin-bad-things-part1",
         "https://flennen.bandcamp.com/album/iii-2",
+        "https://flennen.bandcamp.com/album/in-a-world",
         "https://flennen.bandcamp.com/album/mirage-ep",
         "https://flennen.bandcamp.com/album/no-jobs",
         "https://flennen.bandcamp.com/album/originalton-west",
@@ -7375,6 +7378,7 @@
       "name": "sabotagerecords",
       "url": "https://sabotagerecords.bandcamp.com/music",
       "releases": [
+        "https://sabotagerecords.bandcamp.com/album/ag-plaste-jetzt-oder-nicht-lp",
         "https://sabotagerecords.bandcamp.com/album/aldi-ost-s-t-7",
         "https://sabotagerecords.bandcamp.com/album/cataphiles-shadow-self",
         "https://sabotagerecords.bandcamp.com/album/distance-le-d-cor-ep",
@@ -7465,6 +7469,32 @@
           "url": "https://illuminatedpaths.bandcamp.com/track/powd-h-er-beats-8min-33-43",
           "title": "POWD(H)ER BEATS 8min -3.3-4.3- BLACK WICK",
           "source": "Illuminated Paths"
+        }
+      ]
+    },
+    {
+      "day": "2026-10-27",
+      "pubDate": "Tue, 27 Oct 2026 12:12:39 GMT",
+      "releases": [
+        {
+          "url": "https://casaamarela.bandcamp.com/album/brilhos",
+          "title": "Brilhos Eduardo Roque Martins",
+          "source": "Colectivo Casa Amarela"
+        },
+        {
+          "url": "https://ramalama.bandcamp.com/album/rama-lama-records-2016-2026",
+          "title": "Rama Lama Records 2016 - 2026 Rama Lama Records",
+          "source": "Rama Lama Records"
+        },
+        {
+          "url": "https://flennen.bandcamp.com/album/in-a-world",
+          "title": "In a World Warm Swords",
+          "source": "Flennen"
+        },
+        {
+          "url": "https://sabotagerecords.bandcamp.com/album/ag-plaste-jetzt-oder-nicht-lp",
+          "title": "AG PLASTE - JETZT ODER NICHT LP",
+          "source": "sabotagerecords"
         }
       ]
     }
@@ -8256,6 +8286,7 @@
     "https://casaamarela.bandcamp.com/album/ao-ser-sereno",
     "https://casaamarela.bandcamp.com/album/at-ease-under-a-falling-heaven",
     "https://casaamarela.bandcamp.com/album/between-summer-now-a-fragmented-diary-of-depression",
+    "https://casaamarela.bandcamp.com/album/brilhos",
     "https://casaamarela.bandcamp.com/album/hiver-profond",
     "https://casaamarela.bandcamp.com/album/july-2024-montemor-o-novo",
     "https://casaamarela.bandcamp.com/album/local-maxima",
@@ -9168,6 +9199,7 @@
     "https://flennen.bandcamp.com/album/flennen-no-16",
     "https://flennen.bandcamp.com/album/good-people-doin-bad-things-part1",
     "https://flennen.bandcamp.com/album/iii-2",
+    "https://flennen.bandcamp.com/album/in-a-world",
     "https://flennen.bandcamp.com/album/mirage-ep",
     "https://flennen.bandcamp.com/album/no-jobs",
     "https://flennen.bandcamp.com/album/originalton-west",
@@ -11014,6 +11046,7 @@
     "https://ragana.bandcamp.com/album/ash-souvenir?label=32919309&tab=music",
     "https://rainforestspiritualenslavement.bandcamp.com/album/evil-green?label=609639442&tab=music",
     "https://rainforestspiritualenslavement.bandcamp.com/album/hammerhead-change-of-scenery?label=609639442&tab=music",
+    "https://ramalama.bandcamp.com/album/rama-lama-records-2016-2026",
     "https://ramalama.bandcamp.com/album/rama-lama-records-2025",
     "https://ratdomain.bandcamp.com/album/mystical-rodent-underworld-vol-1-warfare",
     "https://ratdomain.bandcamp.com/album/mystical-rodent-underworld-vol-2-exile",
@@ -11156,6 +11189,7 @@
     "https://russiancircles.bandcamp.com/album/nine?label=3074265780&tab=music",
     "https://rxmusic.bandcamp.com/album/and-the-battle-begun-20th-anniversary-edition?label=3074265780&tab=music",
     "https://ryong-poshisolation.bandcamp.com/album/isa-ryong?label=263068548&tab=music",
+    "https://sabotagerecords.bandcamp.com/album/ag-plaste-jetzt-oder-nicht-lp",
     "https://sabotagerecords.bandcamp.com/album/aldi-ost-s-t-7",
     "https://sabotagerecords.bandcamp.com/album/cataphiles-shadow-self",
     "https://sabotagerecords.bandcamp.com/album/distance-le-d-cor-ep",
@@ -12285,6 +12319,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-26T13:03:39.607592+00:00",
+  "last_checked": "2026-10-27T12:12:39.254357+00:00",
   "failed_catalogues": []
 }
