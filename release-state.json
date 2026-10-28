@@ -385,6 +385,7 @@
         "https://movingdaybrighton.bandcamp.com/album/forever-till-tomorrow-ends?label=3767885783&tab=music",
         "https://myveronica.bandcamp.com/album/i-hope-theres-music-in-heaven?label=3767885783&tab=music",
         "https://secretworldworld.bandcamp.com/track/it-hurts?label=3767885783&tab=music",
+        "https://silicamusic.bandcamp.com/album/alone-in-tow?label=3767885783&tab=music",
         "https://snowhalo.bandcamp.com/album/the-sun-melts-the-moon?label=3767885783&tab=music",
         "https://tuffie.bandcamp.com/album/tuffie?label=3767885783&tab=music",
         "https://turnofphrasehc.bandcamp.com/album/out-in-the-water?label=3767885783&tab=music",
@@ -7497,6 +7498,17 @@
           "source": "sabotagerecords"
         }
       ]
+    },
+    {
+      "day": "2026-10-28",
+      "pubDate": "Wed, 28 Oct 2026 12:55:31 GMT",
+      "releases": [
+        {
+          "url": "https://silicamusic.bandcamp.com/album/alone-in-tow?label=3767885783&tab=music",
+          "title": "Alone In Tow Silica",
+          "source": "Sunday Drive Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -11368,6 +11380,7 @@
     "https://siie.bandcamp.com/album/indigo?label=2685981971&tab=music",
     "https://siie.bandcamp.com/album/sabotage-remixes?label=2685981971&tab=music",
     "https://silentem.bandcamp.com/album/real-life?label=3672515860&tab=music",
+    "https://silicamusic.bandcamp.com/album/alone-in-tow?label=3767885783&tab=music",
     "https://sinnesloschen.bandcamp.com/album/13-asincron-as-de-transmisi-n-parasitaria",
     "https://sinnesloschen.bandcamp.com/album/amber-front",
     "https://sinnesloschen.bandcamp.com/album/carbonio-amorfo",
@@ -12319,6 +12332,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-27T12:12:39.254357+00:00",
+  "last_checked": "2026-10-28T12:55:31.668348+00:00",
   "failed_catalogues": []
 }
