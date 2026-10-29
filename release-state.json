@@ -818,6 +818,7 @@
       "releases": [
         "https://worldofpaint.bandcamp.com/album/concrete-coast",
         "https://worldofpaint.bandcamp.com/album/dancing-crying-ep1",
+        "https://worldofpaint.bandcamp.com/album/dancing-crying-ep2",
         "https://worldofpaint.bandcamp.com/album/het-vreemd-dutch-underground-synth-wave-1982-1987",
         "https://worldofpaint.bandcamp.com/album/im-cindy",
         "https://worldofpaint.bandcamp.com/album/make-a-film",
@@ -1491,6 +1492,7 @@
         "https://conifmyst.bandcamp.com/album/pride-faith",
         "https://conifmyst.bandcamp.com/album/scales-within-the-skies-of-craal",
         "https://conifmyst.bandcamp.com/album/spalted-tapestry",
+        "https://conifmyst.bandcamp.com/album/summoning-dragonic-gods-of-old",
         "https://conifmyst.bandcamp.com/album/tales-of-lost-cosmic-fantasy",
         "https://conifmyst.bandcamp.com/album/tales-of-the-gleaming-evergreen",
         "https://conifmyst.bandcamp.com/album/the-cursed-gauntlet-of-lord-mallius",
@@ -1838,6 +1840,7 @@
         "https://markemoon1.bandcamp.com/album/throw-the-bones?label=2685981971&tab=music",
         "https://memoryindex.bandcamp.com/track/confess?label=2685981971&tab=music",
         "https://memoryindex.bandcamp.com/track/traces?label=2685981971&tab=music",
+        "https://noromakina.bandcamp.com/track/oh-sangre?label=2685981971&tab=music",
         "https://propterhoc.bandcamp.com/album/starfire-ep?label=2685981971&tab=music",
         "https://rinapavar.bandcamp.com/track/too-much?label=2685981971&tab=music",
         "https://shadowshold.bandcamp.com/track/not-much-to-say?label=2685981971&tab=music",
@@ -3666,6 +3669,7 @@
         "https://aegir.bandcamp.com/album/conditioned-by-experience?label=3763439362&tab=music",
         "https://celestineice.bandcamp.com/album/detriment?label=3763439362&tab=music",
         "https://celestineice.bandcamp.com/track/detriment-single?label=3763439362&tab=music",
+        "https://dreymandihundur.bandcamp.com/album/unburied-unwritten?label=3763439362&tab=music",
         "https://laurasecord.bandcamp.com/track/the-nations-greatest?label=3763439362&tab=music",
         "https://mseasik.bandcamp.com/album/our-daily-apocalypse-walk?label=3763439362&tab=music",
         "https://mseasik.bandcamp.com/track/its-got-a-little-ring-to-it-2?label=3763439362&tab=music",
@@ -4882,6 +4886,7 @@
         "https://mariabc.bandcamp.com/album/marathon?label=237579501&tab=music",
         "https://masin.bandcamp.com/album/movement?label=237579501&tab=music",
         "https://oracogan.bandcamp.com/album/hard-hearted-woman?label=237579501&tab=music",
+        "https://sacredbonesrecords.bandcamp.com/album/werwulf-original-motion-picture-soundtrack",
         "https://sextile.bandcamp.com/track/women-respond-to-bass-schwefelgelb-remix?label=237579501&tab=music",
         "https://spellling.bandcamp.com/album/ammunition-featuring-jean-dawson?label=237579501&tab=music",
         "https://spikefuck.bandcamp.com/album/evidence?label=237579501&tab=music"
@@ -7509,6 +7514,37 @@
           "source": "Sunday Drive Records"
         }
       ]
+    },
+    {
+      "day": "2026-10-29",
+      "pubDate": "Thu, 29 Oct 2026 13:01:58 GMT",
+      "releases": [
+        {
+          "url": "https://worldofpaint.bandcamp.com/album/dancing-crying-ep2",
+          "title": "Dancing & Crying EP2 Palmbomen II",
+          "source": "World Of Paint"
+        },
+        {
+          "url": "https://conifmyst.bandcamp.com/album/summoning-dragonic-gods-of-old",
+          "title": "Summoning Dragonic Gods of Old Ancient Scales / Dragon Spell",
+          "source": "Coniferous Myst"
+        },
+        {
+          "url": "https://noromakina.bandcamp.com/track/oh-sangre?label=2685981971&tab=music",
+          "title": "Oh Sangre Noromakina",
+          "source": "COLD TRANSMISSION MUSIC"
+        },
+        {
+          "url": "https://dreymandihundur.bandcamp.com/album/unburied-unwritten?label=3763439362&tab=music",
+          "title": "unburied/unwritten Dreymandi hundur",
+          "source": "Why not? Plötuútgáfa!"
+        },
+        {
+          "url": "https://sacredbonesrecords.bandcamp.com/album/werwulf-original-motion-picture-soundtrack",
+          "title": "Werwulf (Original Motion Picture Soundtrack) Robin Carolan",
+          "source": "Sacred Bones Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8458,6 +8494,7 @@
     "https://conifmyst.bandcamp.com/album/pride-faith",
     "https://conifmyst.bandcamp.com/album/scales-within-the-skies-of-craal",
     "https://conifmyst.bandcamp.com/album/spalted-tapestry",
+    "https://conifmyst.bandcamp.com/album/summoning-dragonic-gods-of-old",
     "https://conifmyst.bandcamp.com/album/tales-of-lost-cosmic-fantasy",
     "https://conifmyst.bandcamp.com/album/tales-of-the-gleaming-evergreen",
     "https://conifmyst.bandcamp.com/album/the-cursed-gauntlet-of-lord-mallius",
@@ -8981,6 +9018,7 @@
     "https://dreamlandsyndicate.bandcamp.com/album/torpur-gobland-ep",
     "https://dreamlandsyndicate.bandcamp.com/album/ukryte-zalety-systemu-ruiny-bud-w",
     "https://dreamlandsyndicate.bandcamp.com/album/wow-zdzwonka",
+    "https://dreymandihundur.bandcamp.com/album/unburied-unwritten?label=3763439362&tab=music",
     "https://dropnineteens.bandcamp.com/album/fools?label=1477173641&tab=music",
     "https://drowse.bandcamp.com/album/ash-souvenir?label=32919309&tab=music",
     "https://drunkensailorrecords.bandcamp.com/album/2025-sampler",
@@ -10599,6 +10637,7 @@
     "https://nopatiencerecords.bandcamp.com/album/wide-world-of-crud-cs",
     "https://nopaws.bandcamp.com/album/no-ghosts",
     "https://normal-bias.bandcamp.com/album/kingdom-come?label=3672515860&tab=music",
+    "https://noromakina.bandcamp.com/track/oh-sangre?label=2685981971&tab=music",
     "https://northernelectronics.bandcamp.com/album/area-08",
     "https://northernelectronics.bandcamp.com/album/asmr-for-suicidal-thoughts",
     "https://northernelectronics.bandcamp.com/album/drumlin-loop",
@@ -11218,6 +11257,7 @@
     "https://sabotagerecords.bandcamp.com/album/wasted-the-future-is-on-fire-lp",
     "https://sabotagerecords.bandcamp.com/album/wax-minds-funatic-asylum-10",
     "https://sabotagerecords.bandcamp.com/track/echo-is-your-love-keep-your-feet-warm",
+    "https://sacredbonesrecords.bandcamp.com/album/werwulf-original-motion-picture-soundtrack",
     "https://sadurn.bandcamp.com/album/the-underworld?label=3305573312&tab=music",
     "https://salviapalth.bandcamp.com/album/last-chance-to-see",
     "https://salviapalth.bandcamp.com/album/melanchole",
@@ -12270,6 +12310,7 @@
     "https://worldofechomusic.bandcamp.com/album/v-a-fully-nowhere-a-world-resources-archive",
     "https://worldofpaint.bandcamp.com/album/concrete-coast",
     "https://worldofpaint.bandcamp.com/album/dancing-crying-ep1",
+    "https://worldofpaint.bandcamp.com/album/dancing-crying-ep2",
     "https://worldofpaint.bandcamp.com/album/het-vreemd-dutch-underground-synth-wave-1982-1987",
     "https://worldofpaint.bandcamp.com/album/im-cindy",
     "https://worldofpaint.bandcamp.com/album/make-a-film",
@@ -12332,6 +12373,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-28T12:55:31.668348+00:00",
+  "last_checked": "2026-10-29T13:01:58.298448+00:00",
   "failed_catalogues": []
 }
