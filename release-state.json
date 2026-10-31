@@ -1507,6 +1507,7 @@
         "https://conifmyst.bandcamp.com/album/the-cursed-shield-of-lord-mallius",
         "https://conifmyst.bandcamp.com/album/the-warlocks-moon-ii",
         "https://conifmyst.bandcamp.com/album/twisted-roots-of-the-imperial-woods",
+        "https://conifmyst.bandcamp.com/album/voyage-towards-an-archaic-isle-ii",
         "https://conifmyst.bandcamp.com/album/warriors-of-the-dragonfang-order"
       ]
     },
@@ -3583,7 +3584,8 @@
         "https://popularcultureshaman.bandcamp.com/album/untitled-two",
         "https://popularcultureshaman.bandcamp.com/track/cave-paintings-cave-graffiti",
         "https://popularcultureshaman.bandcamp.com/track/let-love-be-the-guide",
-        "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers"
+        "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-10-2"
       ]
     },
     "1523738837": {
@@ -3877,13 +3879,20 @@
       "name": "Danse Noire",
       "url": "https://dansenoire.bandcamp.com/music",
       "releases": [
+        "https://aishadevi.bandcamp.com/album/aura-4-everyone?label=3271309192&tab=music",
+        "https://aishadevi.bandcamp.com/album/hakken-dub-throat-dub?label=3271309192&tab=music",
         "https://akahex.bandcamp.com/album/do-the-rite-thing-hex-on-fire?label=3271309192&tab=music",
         "https://blightcaster.bandcamp.com/album/blightcaster?label=3271309192&tab=music",
         "https://cemdukkha.bandcamp.com/album/forma?label=3271309192&tab=music",
         "https://corporationhq.bandcamp.com/album/tableaux-du-doute?label=3271309192&tab=music",
+        "https://dansenoire.bandcamp.com/album/ghamccccxc-vrr",
+        "https://dansenoire.bandcamp.com/album/kissing-myself",
+        "https://elmahdyjr.bandcamp.com/album/gasba-grime?label=3271309192&tab=music",
         "https://emmadj.bandcamp.com/album/lay2g?label=3271309192&tab=music",
         "https://fabiolasiegfried.bandcamp.com/album/immortal?label=3271309192&tab=music",
         "https://gabbermodusoperandi.bandcamp.com/album/puxxximaxxx?label=3271309192&tab=music",
+        "https://jgbiberkopf.bandcamp.com/album/fountain-of-meaning?label=3271309192&tab=music",
+        "https://meukomeuko.bandcamp.com/album/ghost-island?label=3271309192&tab=music",
         "https://mtfuyu.bandcamp.com/album/a-mirror-to-weave?label=3271309192&tab=music",
         "https://nadahelshazly.bandcamp.com/album/pollution-opera?label=3271309192&tab=music",
         "https://racine.bandcamp.com/album/amiti-s?label=3271309192&tab=music",
@@ -6349,6 +6358,7 @@
       "name": "Illuminated Paths",
       "url": "https://illuminatedpaths.bandcamp.com/music",
       "releases": [
+        "https://illuminatedpaths.bandcamp.com/album/an-eternal-night",
         "https://illuminatedpaths.bandcamp.com/album/autumn",
         "https://illuminatedpaths.bandcamp.com/album/between-vapor-and-frost",
         "https://illuminatedpaths.bandcamp.com/album/borgar",
@@ -7683,6 +7693,62 @@
           "source": "Metropolis Records"
         }
       ]
+    },
+    {
+      "day": "2026-10-31",
+      "pubDate": "Sat, 31 Oct 2026 12:30:24 GMT",
+      "releases": [
+        {
+          "url": "https://conifmyst.bandcamp.com/album/voyage-towards-an-archaic-isle-ii",
+          "title": "Voyage Towards An Archaic Isle II",
+          "source": "Coniferous Myst"
+        },
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
+          "title": "untitled 10",
+          "source": "shamane"
+        },
+        {
+          "url": "https://meukomeuko.bandcamp.com/album/ghost-island?label=3271309192&tab=music",
+          "title": "鬼島 Ghost Island Meuko! Meuko!",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://dansenoire.bandcamp.com/album/ghamccccxc-vrr",
+          "title": "Ghamccccxc vRR Réelle",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://dansenoire.bandcamp.com/album/kissing-myself",
+          "title": "Kissing Myself Réelle",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://jgbiberkopf.bandcamp.com/album/fountain-of-meaning?label=3271309192&tab=music",
+          "title": "Fountain Of Meaning J.G. Biberkopf",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://aishadevi.bandcamp.com/album/hakken-dub-throat-dub?label=3271309192&tab=music",
+          "title": "Hakken Dub / Throat Dub Aisha Devi",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://elmahdyjr.bandcamp.com/album/gasba-grime?label=3271309192&tab=music",
+          "title": "Gasba Grime El Mahdy Jr.",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://aishadevi.bandcamp.com/album/aura-4-everyone?label=3271309192&tab=music",
+          "title": "Aura 4 Everyone Aisha Devi",
+          "source": "Danse Noire"
+        },
+        {
+          "url": "https://illuminatedpaths.bandcamp.com/album/an-eternal-night",
+          "title": "An Eternal Night GRAVEGONZO",
+          "source": "Illuminated Paths"
+        }
+      ]
     }
   ],
   "seen": [
@@ -7743,6 +7809,8 @@
     "https://aegir.bandcamp.com/album/conditioned-by-experience?label=3763439362&tab=music",
     "https://agriculturemusic.bandcamp.com/album/the-spiritual-sound-live-in-europe-2026?label=32919309&tab=music",
     "https://agriculturemusic.bandcamp.com/album/the-spiritual-sound?label=32919309&tab=music",
+    "https://aishadevi.bandcamp.com/album/aura-4-everyone?label=3271309192&tab=music",
+    "https://aishadevi.bandcamp.com/album/hakken-dub-throat-dub?label=3271309192&tab=music",
     "https://akahex.bandcamp.com/album/do-the-rite-thing-hex-on-fire?label=3271309192&tab=music",
     "https://alanvega.bandcamp.com/album/alan-vega?label=237579501&tab=music",
     "https://alanvega.bandcamp.com/album/live-at-max-s-kansas-city?label=237579501&tab=music",
@@ -8641,6 +8709,7 @@
     "https://conifmyst.bandcamp.com/album/the-cursed-shield-of-lord-mallius",
     "https://conifmyst.bandcamp.com/album/the-warlocks-moon-ii",
     "https://conifmyst.bandcamp.com/album/twisted-roots-of-the-imperial-woods",
+    "https://conifmyst.bandcamp.com/album/voyage-towards-an-archaic-isle-ii",
     "https://conifmyst.bandcamp.com/album/warriors-of-the-dragonfang-order",
     "https://conjuntovacio.bandcamp.com/album/442",
     "https://conjuntovacio.bandcamp.com/album/a-blessing-withdrawn",
@@ -8796,6 +8865,8 @@
     "https://damcase.bandcamp.com/album/pi03-03?label=1730820773&tab=music",
     "https://dancefountain.bandcamp.com/album/im-watching?label=1096119241&tab=music",
     "https://danielknutz.bandcamp.com/album/echoes-album?label=2685981971&tab=music",
+    "https://dansenoire.bandcamp.com/album/ghamccccxc-vrr",
+    "https://dansenoire.bandcamp.com/album/kissing-myself",
     "https://darkclover-records.bandcamp.com/album/altiplano",
     "https://darkclover-records.bandcamp.com/album/bajkal",
     "https://darkclover-records.bandcamp.com/album/best-of-volor-flex",
@@ -9276,6 +9347,7 @@
     "https://electricvoicerecords.bandcamp.com/album/sand-beach",
     "https://electricvoicerecords.bandcamp.com/track/digresse",
     "https://electronicelectronics.bandcamp.com/album/132-murk",
+    "https://elmahdyjr.bandcamp.com/album/gasba-grime?label=3271309192&tab=music",
     "https://elvisdepressedly.bandcamp.com/album/california-dreamin",
     "https://elvisdepressedly.bandcamp.com/album/depressedelica-2",
     "https://elvisdepressedly.bandcamp.com/album/disgraceland",
@@ -9866,6 +9938,7 @@
     "https://ikonika.bandcamp.com/album/sad?label=1096119241&tab=music",
     "https://illpeach.bandcamp.com/album/heavyweight-feat-madi-diaz?label=798904330&tab=music",
     "https://illpeach.bandcamp.com/track/wolf-like-me?label=798904330&tab=music",
+    "https://illuminatedpaths.bandcamp.com/album/an-eternal-night",
     "https://illuminatedpaths.bandcamp.com/album/autumn",
     "https://illuminatedpaths.bandcamp.com/album/between-vapor-and-frost",
     "https://illuminatedpaths.bandcamp.com/album/borgar",
@@ -10011,6 +10084,7 @@
     "https://jesskerber.bandcamp.com/album/from-way-down-here?label=3542328873&tab=music",
     "https://jesskerber.bandcamp.com/album/the-world-is-dark-but-i-want-it-to-be-funny?label=3542328873&tab=music",
     "https://jessylanza.bandcamp.com/album/slapped-by-my-life?label=1096119241&tab=music",
+    "https://jgbiberkopf.bandcamp.com/album/fountain-of-meaning?label=3271309192&tab=music",
     "https://jkflesh.bandcamp.com/album/pi04-04?label=1730820773&tab=music",
     "https://jkflesh.bandcamp.com/album/pi11-11?label=1730820773&tab=music",
     "https://johangraden.bandcamp.com/album/diakron?label=1845603793&tab=music",
@@ -10477,6 +10551,7 @@
     "https://mesacosa.bandcamp.com/album/el-es-demons",
     "https://mesacosa.bandcamp.com/album/infernal-cakewalk-ep",
     "https://mesacosa.bandcamp.com/album/yaya-brouhaha",
+    "https://meukomeuko.bandcamp.com/album/ghost-island?label=3271309192&tab=music",
     "https://milhaven.bandcamp.com/album/automata",
     "https://milhaven.bandcamp.com/album/bars-closing-down",
     "https://milhaven.bandcamp.com/album/im-wagner",
@@ -11125,6 +11200,7 @@
     "https://popularcultureshaman.bandcamp.com/track/cave-paintings-cave-graffiti",
     "https://popularcultureshaman.bandcamp.com/track/let-love-be-the-guide",
     "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
     "https://pornonvinyl.bandcamp.com/album/old-folks-home",
     "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
     "https://portrayalofguilt.bandcamp.com/album/beginning-of-the-end?label=3305573312&tab=music",
@@ -12533,6 +12609,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-30T12:57:05.873030+00:00",
+  "last_checked": "2026-10-31T12:30:24.726649+00:00",
   "failed_catalogues": []
 }
