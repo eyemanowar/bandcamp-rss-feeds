@@ -997,7 +997,9 @@
         "https://symphonyofdestruction.bandcamp.com/album/glitch-lp",
         "https://symphonyofdestruction.bandcamp.com/album/imprim-dans-les-chairs",
         "https://symphonyofdestruction.bandcamp.com/album/imprim-dans-les-chairs-demo-cassette",
+        "https://symphonyofdestruction.bandcamp.com/album/l-claircie-7",
         "https://symphonyofdestruction.bandcamp.com/album/la-scelta-tua-lp",
+        "https://symphonyofdestruction.bandcamp.com/album/laventure-lp",
         "https://symphonyofdestruction.bandcamp.com/album/obrigada-lp",
         "https://symphonyofdestruction.bandcamp.com/album/once-upon-a-death-our-national-industry-lp",
         "https://symphonyofdestruction.bandcamp.com/album/qui-la-libert-lp",
@@ -1005,6 +1007,7 @@
         "https://symphonyofdestruction.bandcamp.com/album/s-t-7-9",
         "https://symphonyofdestruction.bandcamp.com/album/s-t-8",
         "https://symphonyofdestruction.bandcamp.com/album/s-t-9",
+        "https://symphonyofdestruction.bandcamp.com/album/s-t-mlp-3",
         "https://symphonyofdestruction.bandcamp.com/album/virage-lp"
       ]
     },
@@ -1479,6 +1482,7 @@
         "https://eisenfell.bandcamp.com/album/payback-with-life",
         "https://eisenfell.bandcamp.com/album/ruins-of-the-warzone-remastered",
         "https://eisenfell.bandcamp.com/album/rural-rehearsal-mmxxiii",
+        "https://eisenfell.bandcamp.com/album/samhain-anastasis",
         "https://eisenfell.bandcamp.com/album/sanctus",
         "https://eisenfell.bandcamp.com/album/schutt-und-asche",
         "https://eisenfell.bandcamp.com/album/songs-of-the-doomed",
@@ -5535,8 +5539,8 @@
       ]
     },
     "2700860178": {
-      "name": "Caprice & Necessity",
-      "url": "https://capriceandnecessity.bandcamp.com/music",
+      "name": "B.G.",
+      "url": "https://bg-sounds.bandcamp.com/music",
       "releases": [
         "https://capriceandnecessity.bandcamp.com/album/a-desire-for-innocence-four-ways-of-vanity",
         "https://capriceandnecessity.bandcamp.com/album/alternate-reality",
@@ -6338,6 +6342,7 @@
         "https://forevergrey.bandcamp.com/album/poems-about-eternity",
         "https://forevergrey.bandcamp.com/album/september-ice",
         "https://forevergrey.bandcamp.com/album/sympathy-garden",
+        "https://forevergrey.bandcamp.com/track/candy-knife",
         "https://forevergrey.bandcamp.com/track/cold-hand",
         "https://forevergrey.bandcamp.com/track/lost-in-a-moment"
       ]
@@ -6366,6 +6371,7 @@
         "https://illuminatedpaths.bandcamp.com/album/digital-narcotic",
         "https://illuminatedpaths.bandcamp.com/album/double-live",
         "https://illuminatedpaths.bandcamp.com/album/exodus-a-vaportrap-odyssey-cassette-version",
+        "https://illuminatedpaths.bandcamp.com/album/fright-nights-at-universal-studios-orlando-in-1991-vhs-copy",
         "https://illuminatedpaths.bandcamp.com/album/garden-with-dog",
         "https://illuminatedpaths.bandcamp.com/album/k2-18b",
         "https://illuminatedpaths.bandcamp.com/album/killed-the-image-the-light-went-out-ep",
@@ -7746,6 +7752,42 @@
         {
           "url": "https://illuminatedpaths.bandcamp.com/album/an-eternal-night",
           "title": "An Eternal Night GRAVEGONZO",
+          "source": "Illuminated Paths"
+        }
+      ]
+    },
+    {
+      "day": "2026-11-01",
+      "pubDate": "Sun, 01 Nov 2026 13:25:19 GMT",
+      "releases": [
+        {
+          "url": "https://symphonyofdestruction.bandcamp.com/album/laventure-lp",
+          "title": "L'Aventure LP LITOVSK",
+          "source": "Symphony of destruction"
+        },
+        {
+          "url": "https://symphonyofdestruction.bandcamp.com/album/l-claircie-7",
+          "title": "L'Éclaircie! 7\" GRISAILLE",
+          "source": "Symphony of destruction"
+        },
+        {
+          "url": "https://symphonyofdestruction.bandcamp.com/album/s-t-mlp-3",
+          "title": "S/T MLP RÄKIÄ",
+          "source": "Symphony of destruction"
+        },
+        {
+          "url": "https://eisenfell.bandcamp.com/album/samhain-anastasis",
+          "title": "Samhain Anastasis Totengruft",
+          "source": "Eisenfell"
+        },
+        {
+          "url": "https://forevergrey.bandcamp.com/track/candy-knife",
+          "title": "Candy Knife",
+          "source": "FOREVER GREY"
+        },
+        {
+          "url": "https://illuminatedpaths.bandcamp.com/album/fright-nights-at-universal-studios-orlando-in-1991-vhs-copy",
+          "title": "FRIGHT NIGHTS at Universal Studio's Orlando in 1991 [VHS COPY] BLACK WICK",
           "source": "Illuminated Paths"
         }
       ]
@@ -9334,6 +9376,7 @@
     "https://eisenfell.bandcamp.com/album/payback-with-life",
     "https://eisenfell.bandcamp.com/album/ruins-of-the-warzone-remastered",
     "https://eisenfell.bandcamp.com/album/rural-rehearsal-mmxxiii",
+    "https://eisenfell.bandcamp.com/album/samhain-anastasis",
     "https://eisenfell.bandcamp.com/album/sanctus",
     "https://eisenfell.bandcamp.com/album/schutt-und-asche",
     "https://eisenfell.bandcamp.com/album/songs-of-the-doomed",
@@ -9518,6 +9561,7 @@
     "https://forevergrey.bandcamp.com/album/poems-about-eternity",
     "https://forevergrey.bandcamp.com/album/september-ice",
     "https://forevergrey.bandcamp.com/album/sympathy-garden",
+    "https://forevergrey.bandcamp.com/track/candy-knife",
     "https://forevergrey.bandcamp.com/track/cold-hand",
     "https://forevergrey.bandcamp.com/track/lost-in-a-moment",
     "https://foreversonicdeath.bandcamp.com/album/-",
@@ -9946,6 +9990,7 @@
     "https://illuminatedpaths.bandcamp.com/album/digital-narcotic",
     "https://illuminatedpaths.bandcamp.com/album/double-live",
     "https://illuminatedpaths.bandcamp.com/album/exodus-a-vaportrap-odyssey-cassette-version",
+    "https://illuminatedpaths.bandcamp.com/album/fright-nights-at-universal-studios-orlando-in-1991-vhs-copy",
     "https://illuminatedpaths.bandcamp.com/album/garden-with-dog",
     "https://illuminatedpaths.bandcamp.com/album/k2-18b",
     "https://illuminatedpaths.bandcamp.com/album/killed-the-image-the-light-went-out-ep",
@@ -11901,7 +11946,9 @@
     "https://symphonyofdestruction.bandcamp.com/album/glitch-lp",
     "https://symphonyofdestruction.bandcamp.com/album/imprim-dans-les-chairs",
     "https://symphonyofdestruction.bandcamp.com/album/imprim-dans-les-chairs-demo-cassette",
+    "https://symphonyofdestruction.bandcamp.com/album/l-claircie-7",
     "https://symphonyofdestruction.bandcamp.com/album/la-scelta-tua-lp",
+    "https://symphonyofdestruction.bandcamp.com/album/laventure-lp",
     "https://symphonyofdestruction.bandcamp.com/album/obrigada-lp",
     "https://symphonyofdestruction.bandcamp.com/album/once-upon-a-death-our-national-industry-lp",
     "https://symphonyofdestruction.bandcamp.com/album/qui-la-libert-lp",
@@ -11909,6 +11956,7 @@
     "https://symphonyofdestruction.bandcamp.com/album/s-t-7-9",
     "https://symphonyofdestruction.bandcamp.com/album/s-t-8",
     "https://symphonyofdestruction.bandcamp.com/album/s-t-9",
+    "https://symphonyofdestruction.bandcamp.com/album/s-t-mlp-3",
     "https://symphonyofdestruction.bandcamp.com/album/virage-lp",
     "https://tangerinetheband.bandcamp.com/album/feel-this-way-single",
     "https://tangerinetheband.bandcamp.com/album/sugar-teeth",
@@ -12609,6 +12657,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-10-31T12:30:24.726649+00:00",
+  "last_checked": "2026-11-01T13:25:19.495219+00:00",
   "failed_catalogues": []
 }
