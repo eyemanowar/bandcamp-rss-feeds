@@ -3589,7 +3589,8 @@
         "https://popularcultureshaman.bandcamp.com/track/cave-paintings-cave-graffiti",
         "https://popularcultureshaman.bandcamp.com/track/let-love-be-the-guide",
         "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers",
-        "https://popularcultureshaman.bandcamp.com/track/untitled-10-2"
+        "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-11"
       ]
     },
     "1523738837": {
@@ -6011,7 +6012,8 @@
         "https://reekingaura.bandcamp.com/album/on-the-promise-of-the-moon?label=1058594804&tab=music",
         "https://spiritpossession.bandcamp.com/album/cathedral-speech",
         "https://sufferinghour.bandcamp.com/album/impelling-rebirth?label=1058594804&tab=music",
-        "https://thaetas.bandcamp.com/album/the-irredeemable-age?label=1058594804&tab=music"
+        "https://thaetas.bandcamp.com/album/the-irredeemable-age?label=1058594804&tab=music",
+        "https://trvlvthn.bandcamp.com/album/die-to-this?label=1058594804&tab=music"
       ]
     },
     "690519094": {
@@ -7789,6 +7791,22 @@
           "url": "https://illuminatedpaths.bandcamp.com/album/fright-nights-at-universal-studios-orlando-in-1991-vhs-copy",
           "title": "FRIGHT NIGHTS at Universal Studio's Orlando in 1991 [VHS COPY] BLACK WICK",
           "source": "Illuminated Paths"
+        }
+      ]
+    },
+    {
+      "day": "2026-11-02",
+      "pubDate": "Mon, 02 Nov 2026 15:54:35 GMT",
+      "releases": [
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-11",
+          "title": "untitled 11",
+          "source": "shamane"
+        },
+        {
+          "url": "https://trvlvthn.bandcamp.com/album/die-to-this?label=1058594804&tab=music",
+          "title": "Die To This LEVIATHAN",
+          "source": "Profound Lore Records"
         }
       ]
     }
@@ -11246,6 +11264,7 @@
     "https://popularcultureshaman.bandcamp.com/track/let-love-be-the-guide",
     "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers",
     "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-11",
     "https://pornonvinyl.bandcamp.com/album/old-folks-home",
     "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
     "https://portrayalofguilt.bandcamp.com/album/beginning-of-the-end?label=3305573312&tab=music",
@@ -12326,6 +12345,7 @@
     "https://trustcollective.bandcamp.com/album/the-world-speaks-in-mysterious-ways",
     "https://trustcollective.bandcamp.com/album/thorn-bug-boar",
     "https://trustcollective.bandcamp.com/album/traveling-beyond-the-event-horizon",
+    "https://trvlvthn.bandcamp.com/album/die-to-this?label=1058594804&tab=music",
     "https://trvsrecords.bandcamp.com/album/demo",
     "https://trvsrecords.bandcamp.com/album/demo-2",
     "https://trvsrecords.bandcamp.com/album/kasatka",
@@ -12657,6 +12677,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-01T13:25:19.495219+00:00",
+  "last_checked": "2026-11-02T15:54:35.113838+00:00",
   "failed_catalogues": []
 }
