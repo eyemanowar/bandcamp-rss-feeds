@@ -2613,6 +2613,7 @@
         "https://tomatenplatten.bandcamp.com/album/architektur-ist-so-langweilig-just-teen",
         "https://tomatenplatten.bandcamp.com/album/auf-halde-flut",
         "https://tomatenplatten.bandcamp.com/album/bags",
+        "https://tomatenplatten.bandcamp.com/album/ich-will-kein-horrorfilm-schaun-kraftwerk",
         "https://tomatenplatten.bandcamp.com/album/ichwill-kein-horrorfilm-schaun-kraftwerk",
         "https://tomatenplatten.bandcamp.com/album/in-10-jahren-pas-de-deux",
         "https://tomatenplatten.bandcamp.com/album/in-den-dosen",
@@ -3506,6 +3507,7 @@
         "https://vacant.bandcamp.com/track/allure",
         "https://vacant.bandcamp.com/track/broke-vip",
         "https://vacant.bandcamp.com/track/dark-hour",
+        "https://vacant.bandcamp.com/track/division",
         "https://vacant.bandcamp.com/track/escape",
         "https://vacant.bandcamp.com/track/hidden",
         "https://vacant.bandcamp.com/track/high-rise",
@@ -3562,6 +3564,8 @@
         "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
         "https://rosafaenskap.bandcamp.com/album/ingenting-forblir?label=2244806283&tab=music",
         "https://rosafaenskap.bandcamp.com/album/klarhet-i-kaos?label=2244806283&tab=music",
+        "https://scoreboardmusic.bandcamp.com/track/ropey-rampage?label=2244806283&tab=music",
+        "https://scoreboardmusic.bandcamp.com/track/rush-spells?label=2244806283&tab=music",
         "https://sibiir.bandcamp.com/album/undergang?label=2244806283&tab=music",
         "https://sundrownedband.bandcamp.com/album/higanbana?label=2244806283&tab=music",
         "https://superfokk.bandcamp.com/album/superf-kk?label=2244806283&tab=music",
@@ -3590,7 +3594,9 @@
         "https://popularcultureshaman.bandcamp.com/track/let-love-be-the-guide",
         "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers",
         "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
-        "https://popularcultureshaman.bandcamp.com/track/untitled-11"
+        "https://popularcultureshaman.bandcamp.com/track/untitled-11",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-12",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-13"
       ]
     },
     "1523738837": {
@@ -7809,6 +7815,42 @@
           "source": "Profound Lore Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-03",
+      "pubDate": "Tue, 03 Nov 2026 14:15:31 GMT",
+      "releases": [
+        {
+          "url": "https://tomatenplatten.bandcamp.com/album/ich-will-kein-horrorfilm-schaun-kraftwerk",
+          "title": "Ich will kein Horrorfilm schaun / Kraftwerk Zweilaster",
+          "source": "Tomatenplatten"
+        },
+        {
+          "url": "https://vacant.bandcamp.com/track/division",
+          "title": "Division",
+          "source": "Vacant"
+        },
+        {
+          "url": "https://scoreboardmusic.bandcamp.com/track/rush-spells?label=2244806283&tab=music",
+          "title": "rush spells scoreboard",
+          "source": "FysiskFormat"
+        },
+        {
+          "url": "https://scoreboardmusic.bandcamp.com/track/ropey-rampage?label=2244806283&tab=music",
+          "title": "ropey rampage scoreboard",
+          "source": "FysiskFormat"
+        },
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-13",
+          "title": "untitled 13",
+          "source": "shamane"
+        },
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-12",
+          "title": "untitled 12",
+          "source": "shamane"
+        }
+      ]
     }
   ],
   "seen": [
@@ -11265,6 +11307,8 @@
     "https://popularcultureshaman.bandcamp.com/track/majestic-bouillon-maneuvers",
     "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
     "https://popularcultureshaman.bandcamp.com/track/untitled-11",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-12",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-13",
     "https://pornonvinyl.bandcamp.com/album/old-folks-home",
     "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
     "https://portrayalofguilt.bandcamp.com/album/beginning-of-the-end?label=3305573312&tab=music",
@@ -11578,6 +11622,8 @@
     "https://schnuppthepups.bandcamp.com/album/mannix",
     "https://schnuppthepups.bandcamp.com/album/the-heck-sessions-2017",
     "https://schnuppthepups.bandcamp.com/album/x-indicates-prior-damage",
+    "https://scoreboardmusic.bandcamp.com/track/ropey-rampage?label=2244806283&tab=music",
+    "https://scoreboardmusic.bandcamp.com/track/rush-spells?label=2244806283&tab=music",
     "https://scotdrakula.bandcamp.com/album/a-giant-spider",
     "https://scotdrakula.bandcamp.com/album/break-me-up",
     "https://scotdrakula.bandcamp.com/album/burner",
@@ -12175,6 +12221,7 @@
     "https://tomatenplatten.bandcamp.com/album/architektur-ist-so-langweilig-just-teen",
     "https://tomatenplatten.bandcamp.com/album/auf-halde-flut",
     "https://tomatenplatten.bandcamp.com/album/bags",
+    "https://tomatenplatten.bandcamp.com/album/ich-will-kein-horrorfilm-schaun-kraftwerk",
     "https://tomatenplatten.bandcamp.com/album/ichwill-kein-horrorfilm-schaun-kraftwerk",
     "https://tomatenplatten.bandcamp.com/album/in-10-jahren-pas-de-deux",
     "https://tomatenplatten.bandcamp.com/album/in-den-dosen",
@@ -12448,6 +12495,7 @@
     "https://vacant.bandcamp.com/track/allure",
     "https://vacant.bandcamp.com/track/broke-vip",
     "https://vacant.bandcamp.com/track/dark-hour",
+    "https://vacant.bandcamp.com/track/division",
     "https://vacant.bandcamp.com/track/escape",
     "https://vacant.bandcamp.com/track/hidden",
     "https://vacant.bandcamp.com/track/high-rise",
@@ -12677,6 +12725,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-02T15:54:35.113838+00:00",
+  "last_checked": "2026-11-03T14:15:31.453403+00:00",
   "failed_catalogues": []
 }
