@@ -3596,7 +3596,8 @@
         "https://popularcultureshaman.bandcamp.com/track/untitled-10-2",
         "https://popularcultureshaman.bandcamp.com/track/untitled-11",
         "https://popularcultureshaman.bandcamp.com/track/untitled-12",
-        "https://popularcultureshaman.bandcamp.com/track/untitled-13"
+        "https://popularcultureshaman.bandcamp.com/track/untitled-13",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-14"
       ]
     },
     "1523738837": {
@@ -3926,6 +3927,7 @@
         "https://modeingliany.bandcamp.com/album/cin-matique-inverse",
         "https://modeingliany.bandcamp.com/album/danses-de-travers",
         "https://modeingliany.bandcamp.com/album/der-sturm",
+        "https://modeingliany.bandcamp.com/album/diank",
         "https://modeingliany.bandcamp.com/album/evn-mor",
         "https://modeingliany.bandcamp.com/album/kelch-lizher",
         "https://modeingliany.bandcamp.com/album/la-profondeur-des-mondes",
@@ -7851,6 +7853,22 @@
           "source": "shamane"
         }
       ]
+    },
+    {
+      "day": "2026-11-04",
+      "pubDate": "Wed, 04 Nov 2026 14:32:23 GMT",
+      "releases": [
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-14",
+          "title": "untitled 14",
+          "source": "shamane"
+        },
+        {
+          "url": "https://modeingliany.bandcamp.com/album/diank",
+          "title": "DIANK",
+          "source": "Mode in gliany"
+        }
+      ]
     }
   ],
   "seen": [
@@ -10706,6 +10724,7 @@
     "https://modeingliany.bandcamp.com/album/cin-matique-inverse",
     "https://modeingliany.bandcamp.com/album/danses-de-travers",
     "https://modeingliany.bandcamp.com/album/der-sturm",
+    "https://modeingliany.bandcamp.com/album/diank",
     "https://modeingliany.bandcamp.com/album/evn-mor",
     "https://modeingliany.bandcamp.com/album/kelch-lizher",
     "https://modeingliany.bandcamp.com/album/la-profondeur-des-mondes",
@@ -11309,6 +11328,7 @@
     "https://popularcultureshaman.bandcamp.com/track/untitled-11",
     "https://popularcultureshaman.bandcamp.com/track/untitled-12",
     "https://popularcultureshaman.bandcamp.com/track/untitled-13",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-14",
     "https://pornonvinyl.bandcamp.com/album/old-folks-home",
     "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
     "https://portrayalofguilt.bandcamp.com/album/beginning-of-the-end?label=3305573312&tab=music",
@@ -12725,6 +12745,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-03T14:15:31.453403+00:00",
+  "last_checked": "2026-11-04T14:32:23.251348+00:00",
   "failed_catalogues": []
 }
