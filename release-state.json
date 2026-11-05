@@ -285,6 +285,7 @@
       "releases": [
         "https://nourishment.bandcamp.com/album/cerebral-ep",
         "https://nourishment.bandcamp.com/album/coiled-cross-ep",
+        "https://nourishment.bandcamp.com/album/cryptic-sundial-worship",
         "https://nourishment.bandcamp.com/album/effervescent-gaze",
         "https://nourishment.bandcamp.com/album/no-longer-a-corpse",
         "https://nourishment.bandcamp.com/album/nourishment",
@@ -392,7 +393,8 @@
         "https://snowhalo.bandcamp.com/album/the-sun-melts-the-moon?label=3767885783&tab=music",
         "https://tuffie.bandcamp.com/album/tuffie?label=3767885783&tab=music",
         "https://turnofphrasehc.bandcamp.com/album/out-in-the-water?label=3767885783&tab=music",
-        "https://turnofphrasehc.bandcamp.com/album/pale-skies?label=3767885783&tab=music"
+        "https://turnofphrasehc.bandcamp.com/album/pale-skies?label=3767885783&tab=music",
+        "https://viviansto.bandcamp.com/album/take-your-desires-for-reality?label=3767885783&tab=music"
       ]
     },
     "3729516501": {
@@ -2617,6 +2619,7 @@
         "https://tomatenplatten.bandcamp.com/album/ichwill-kein-horrorfilm-schaun-kraftwerk",
         "https://tomatenplatten.bandcamp.com/album/in-10-jahren-pas-de-deux",
         "https://tomatenplatten.bandcamp.com/album/in-den-dosen",
+        "https://tomatenplatten.bandcamp.com/album/inside-the-people-they-know",
         "https://tomatenplatten.bandcamp.com/album/izza-asta-alate",
         "https://tomatenplatten.bandcamp.com/album/languish-2",
         "https://tomatenplatten.bandcamp.com/album/patience-aggressive",
@@ -2931,6 +2934,7 @@
         "https://brusselssproutsintl.bandcamp.com/album/bs",
         "https://brusselssproutsintl.bandcamp.com/album/but-always-antifascist",
         "https://brusselssproutsintl.bandcamp.com/album/druslugangan-slutwalk-reykjav-k-2022",
+        "https://brusselssproutsintl.bandcamp.com/album/inside-the-people-they-know",
         "https://brusselssproutsintl.bandcamp.com/album/relax-blabla",
         "https://brusselssproutsintl.bandcamp.com/album/sendu-mig",
         "https://brusselssproutsintl.bandcamp.com/album/sometimes-depressed",
@@ -5784,7 +5788,8 @@
         "https://lorainejames.bandcamp.com/album/detached-from-the-rest-of-you?label=1096119241&tab=music",
         "https://nikkinair.bandcamp.com/album/majestic-animals?label=1096119241&tab=music",
         "https://nikkinair.bandcamp.com/album/nagoya-ep?label=1096119241&tab=music",
-        "https://procfiskal.bandcamp.com/album/exchequer?label=1096119241&tab=music"
+        "https://procfiskal.bandcamp.com/album/exchequer?label=1096119241&tab=music",
+        "https://timreaper.bandcamp.com/album/worlds-end?label=1096119241&tab=music"
       ]
     },
     "1277455048": {
@@ -6232,6 +6237,7 @@
       "releases": [
         "https://assemblage23.bandcamp.com/album/believe-inhalt-remix?label=3261176365&tab=music",
         "https://clanofxymox.bandcamp.com/album/broken-heart-fire?label=3261176365&tab=music",
+        "https://damagecontrol5.bandcamp.com/album/blackout?label=3261176365&tab=music",
         "https://damagecontrol5.bandcamp.com/album/red-lines?label=3261176365&tab=music",
         "https://delerium-official.bandcamp.com/album/exaudire?label=3261176365&tab=music",
         "https://delerium-official.bandcamp.com/album/into-the-light?label=3261176365&tab=music",
@@ -6242,6 +6248,7 @@
         "https://lordsofacidofficial.bandcamp.com/album/mundo-bizarro?label=3261176365&tab=music",
         "https://magic-wands.bandcamp.com/album/diamond-rain?label=3261176365&tab=music",
         "https://magic-wands.bandcamp.com/album/guardians?label=3261176365&tab=music",
+        "https://marikattman.bandcamp.com/album/its-in-the-losing-you?label=3261176365&tab=music",
         "https://massminor.bandcamp.com/album/get-up?label=3261176365&tab=music",
         "https://pigindustries.bandcamp.com/album/dirt-box?label=3261176365&tab=music",
         "https://rotersand.bandcamp.com/album/merging-oceans-train?label=3261176365&tab=music",
@@ -7869,6 +7876,47 @@
           "source": "Mode in gliany"
         }
       ]
+    },
+    {
+      "day": "2026-11-05",
+      "pubDate": "Thu, 05 Nov 2026 14:40:42 GMT",
+      "releases": [
+        {
+          "url": "https://nourishment.bandcamp.com/album/cryptic-sundial-worship",
+          "title": "Cryptic Sundial Worship",
+          "source": "Nourishment"
+        },
+        {
+          "url": "https://viviansto.bandcamp.com/album/take-your-desires-for-reality?label=3767885783&tab=music",
+          "title": "Take Your Desires for Reality Vivians",
+          "source": "Sunday Drive Records"
+        },
+        {
+          "url": "https://tomatenplatten.bandcamp.com/album/inside-the-people-they-know",
+          "title": "Inside the people they know BSÍ",
+          "source": "Tomatenplatten"
+        },
+        {
+          "url": "https://brusselssproutsintl.bandcamp.com/album/inside-the-people-they-know",
+          "title": "Inside the people they know",
+          "source": "BSÍ"
+        },
+        {
+          "url": "https://timreaper.bandcamp.com/album/worlds-end?label=1096119241&tab=music",
+          "title": "World's End Tim Reaper",
+          "source": "Hyperdub"
+        },
+        {
+          "url": "https://damagecontrol5.bandcamp.com/album/blackout?label=3261176365&tab=music",
+          "title": "Blackout Damage Control x Left Spine Down",
+          "source": "Metropolis Records"
+        },
+        {
+          "url": "https://marikattman.bandcamp.com/album/its-in-the-losing-you?label=3261176365&tab=music",
+          "title": "It's In The Losing You Mari Kattman",
+          "source": "Metropolis Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8550,6 +8598,7 @@
     "https://brusselssproutsintl.bandcamp.com/album/bs",
     "https://brusselssproutsintl.bandcamp.com/album/but-always-antifascist",
     "https://brusselssproutsintl.bandcamp.com/album/druslugangan-slutwalk-reykjav-k-2022",
+    "https://brusselssproutsintl.bandcamp.com/album/inside-the-people-they-know",
     "https://brusselssproutsintl.bandcamp.com/album/relax-blabla",
     "https://brusselssproutsintl.bandcamp.com/album/sendu-mig",
     "https://brusselssproutsintl.bandcamp.com/album/sometimes-depressed",
@@ -8981,6 +9030,7 @@
     "https://cutraterecords.bandcamp.com/album/mane-bloodstone-ep",
     "https://cutraterecords.bandcamp.com/album/scraper-s-t-lp",
     "https://cutraterecords.bandcamp.com/album/vial-s-t-ep",
+    "https://damagecontrol5.bandcamp.com/album/blackout?label=3261176365&tab=music",
     "https://damagecontrol5.bandcamp.com/album/red-lines?label=3261176365&tab=music",
     "https://damcase.bandcamp.com/album/pi03-03?label=1730820773&tab=music",
     "https://dancefountain.bandcamp.com/album/im-watching?label=1096119241&tab=music",
@@ -10564,6 +10614,7 @@
     "https://mapledeathrecords.bandcamp.com/album/to-remind-myself-i-have-lived-collage-works-2020-2025",
     "https://mapledeathrecords.bandcamp.com/album/un-sequestro-lungo-10000-anni",
     "https://mariabc.bandcamp.com/album/marathon?label=237579501&tab=music",
+    "https://marikattman.bandcamp.com/album/its-in-the-losing-you?label=3261176365&tab=music",
     "https://maringuero.bandcamp.com/album/la-la-la-remixes?label=798904330&tab=music",
     "https://maringuero.bandcamp.com/album/la-la-la?label=798904330&tab=music",
     "https://maringuero.bandcamp.com/track/taquero?label=798904330&tab=music",
@@ -11016,6 +11067,7 @@
     "https://notunlike.bandcamp.com/album/your-eyes-and-your-fingers-and-your-teeth",
     "https://nourishment.bandcamp.com/album/cerebral-ep",
     "https://nourishment.bandcamp.com/album/coiled-cross-ep",
+    "https://nourishment.bandcamp.com/album/cryptic-sundial-worship",
     "https://nourishment.bandcamp.com/album/effervescent-gaze",
     "https://nourishment.bandcamp.com/album/no-longer-a-corpse",
     "https://nourishment.bandcamp.com/album/nourishment",
@@ -12235,6 +12287,7 @@
     "https://throughloverec.bandcamp.com/album/the-full-weight-of-everything",
     "https://throughloverec.bandcamp.com/album/todas-las-cosas-que-nos-salieron-mal",
     "https://tiarosa.bandcamp.com/album/misterio-lounge-3000-2?label=3399399873&tab=music",
+    "https://timreaper.bandcamp.com/album/worlds-end?label=1096119241&tab=music",
     "https://tithepdx.bandcamp.com/album/communion-in-anguish?label=1058594804&tab=music",
     "https://tofusmell.bandcamp.com/album/all-my-time?label=798904330&tab=music",
     "https://tofusmell.bandcamp.com/album/me-tomorrow?label=798904330&tab=music",
@@ -12245,6 +12298,7 @@
     "https://tomatenplatten.bandcamp.com/album/ichwill-kein-horrorfilm-schaun-kraftwerk",
     "https://tomatenplatten.bandcamp.com/album/in-10-jahren-pas-de-deux",
     "https://tomatenplatten.bandcamp.com/album/in-den-dosen",
+    "https://tomatenplatten.bandcamp.com/album/inside-the-people-they-know",
     "https://tomatenplatten.bandcamp.com/album/izza-asta-alate",
     "https://tomatenplatten.bandcamp.com/album/languish-2",
     "https://tomatenplatten.bandcamp.com/album/patience-aggressive",
@@ -12590,6 +12644,7 @@
     "https://vexagon.bandcamp.com/album/children-without-a-god?label=2685981971&tab=music",
     "https://vexagon.bandcamp.com/track/psalm-zero?label=2685981971&tab=music",
     "https://vilhelmbromander.bandcamp.com/album/aurora-ii?label=1845603793&tab=music",
+    "https://viviansto.bandcamp.com/album/take-your-desires-for-reality?label=3767885783&tab=music",
     "https://vofa.bandcamp.com/album/pi05-05?label=1730820773&tab=music",
     "https://volarrecords.bandcamp.com/album/d-wrex-s-t-ep",
     "https://volarrecords.bandcamp.com/album/jay-reatard-lindsay-shutt-in-heaven-lady-in-the-radiator-song-from-david-lynchs-eraserhead-b-w-cody-blanchard-shannon-and-the-clams-i-dont-want-to-go-down-to-the-basement-the-ramones-cover",
@@ -12745,6 +12800,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-04T14:32:23.251348+00:00",
+  "last_checked": "2026-11-05T14:40:42.368923+00:00",
   "failed_catalogues": []
 }
