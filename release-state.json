@@ -6,6 +6,7 @@
       "url": "https://splitterrecords.bandcamp.com/music",
       "releases": [
         "https://splitterrecords.bandcamp.com/album/10-ill-songs",
+        "https://splitterrecords.bandcamp.com/album/artefakt",
         "https://splitterrecords.bandcamp.com/album/ball-pit",
         "https://splitterrecords.bandcamp.com/album/can-demo",
         "https://splitterrecords.bandcamp.com/album/dwa-wymiary",
@@ -402,6 +403,7 @@
       "url": "https://grimestone.bandcamp.com/music",
       "releases": [
         "https://grimestone.bandcamp.com/album/bogmoon-forgotten-wind-forgotten-moon",
+        "https://grimestone.bandcamp.com/album/curtan-wall-castle-crusher-8-bit",
         "https://grimestone.bandcamp.com/album/enshroud-despise-the-light",
         "https://grimestone.bandcamp.com/album/evil-dead-ii-s-t",
         "https://grimestone.bandcamp.com/album/glass-coffin-vampiric-coffin-coffin-fodder-cacoffiny",
@@ -1409,6 +1411,7 @@
       "releases": [
         "https://x-img.bandcamp.com/album/all-threads-suspended",
         "https://x-img.bandcamp.com/album/analog-fear",
+        "https://x-img.bandcamp.com/album/bautismo-de-fuego",
         "https://x-img.bandcamp.com/album/cold-hearts",
         "https://x-img.bandcamp.com/album/dysfunctionalism-2",
         "https://x-img.bandcamp.com/album/friction-code",
@@ -1418,11 +1421,13 @@
         "https://x-img.bandcamp.com/album/midnight-zone",
         "https://x-img.bandcamp.com/album/netherworld-glow",
         "https://x-img.bandcamp.com/album/rules-of-engagement",
+        "https://x-img.bandcamp.com/album/salvation",
         "https://x-img.bandcamp.com/album/searching-hell",
         "https://x-img.bandcamp.com/album/tesoros-infernales",
         "https://x-img.bandcamp.com/album/wall-of-shame",
         "https://x-img.bandcamp.com/album/watching-existence",
         "https://x-img.bandcamp.com/track/apostate",
+        "https://x-img.bandcamp.com/track/modern-metanoia",
         "https://x-img.bandcamp.com/track/wire-trip-live-at-grauzone"
       ]
     },
@@ -3146,9 +3151,12 @@
       "name": "Janushoved",
       "url": "https://janushoved.bandcamp.com/music",
       "releases": [
+        "https://janushoved.bandcamp.com/album/full-of-hope",
         "https://janushoved.bandcamp.com/album/h-jtid",
         "https://janushoved.bandcamp.com/album/healing-songs-ii",
         "https://janushoved.bandcamp.com/album/how-many-worlds-does-it-take",
+        "https://janushoved.bandcamp.com/album/hvide-d-re",
+        "https://janushoved.bandcamp.com/album/idioms-of-elation",
         "https://janushoved.bandcamp.com/album/irkalla-f-rste-del",
         "https://janushoved.bandcamp.com/album/kosmos-tr-der-i-sort-blomst",
         "https://janushoved.bandcamp.com/album/love-is-not-a-fugue-state",
@@ -3156,6 +3164,7 @@
         "https://janushoved.bandcamp.com/album/ny-dansk-romantik",
         "https://janushoved.bandcamp.com/album/paradise-tanager",
         "https://janushoved.bandcamp.com/album/piano-works",
+        "https://janushoved.bandcamp.com/album/sm-natlige-h-ndelser-f-rste-del",
         "https://janushoved.bandcamp.com/album/the-capricorn-collection-pt-1",
         "https://janushoved.bandcamp.com/album/the-capricorn-collection-pt-2",
         "https://janushoved.bandcamp.com/album/to-kroppe-af-samme-knogle-samme-s-d-samme-hjerte",
@@ -8019,6 +8028,57 @@
           "source": "Clan Destine Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-07",
+      "pubDate": "Sat, 07 Nov 2026 13:01:52 GMT",
+      "releases": [
+        {
+          "url": "https://splitterrecords.bandcamp.com/album/artefakt",
+          "title": "Artefakt OKRA",
+          "source": "Splitter Records"
+        },
+        {
+          "url": "https://grimestone.bandcamp.com/album/curtan-wall-castle-crusher-8-bit",
+          "title": "Curta'n Wall - Castle Crusher (8-bit) Curta'n Wall",
+          "source": "Grime Stone Records"
+        },
+        {
+          "url": "https://x-img.bandcamp.com/track/modern-metanoia",
+          "title": "MODERN METANOIA SARIN",
+          "source": "X-IMG"
+        },
+        {
+          "url": "https://x-img.bandcamp.com/album/salvation",
+          "title": "Salvation Unconscious",
+          "source": "X-IMG"
+        },
+        {
+          "url": "https://x-img.bandcamp.com/album/bautismo-de-fuego",
+          "title": "Bautismo de Fuego La Sanguijuela",
+          "source": "X-IMG"
+        },
+        {
+          "url": "https://janushoved.bandcamp.com/album/idioms-of-elation",
+          "title": "Idioms Of Elation Anhedone",
+          "source": "Janushoved"
+        },
+        {
+          "url": "https://janushoved.bandcamp.com/album/hvide-d-re",
+          "title": "Hvide Døre Hvide Døre",
+          "source": "Janushoved"
+        },
+        {
+          "url": "https://janushoved.bandcamp.com/album/full-of-hope",
+          "title": "Full Of Hope Hasfeldt",
+          "source": "Janushoved"
+        },
+        {
+          "url": "https://janushoved.bandcamp.com/album/sm-natlige-h-ndelser-f-rste-del",
+          "title": "Små Natlige Hændelser, Første Del Jonas Torstensen",
+          "source": "Janushoved"
+        }
+      ]
     }
   ],
   "seen": [
@@ -10020,6 +10080,7 @@
     "https://grgpnkrecords.bandcamp.com/album/we-love-trash-the-best-of-the-garagepunk-hideout-vol-7",
     "https://grgpnkrecords.bandcamp.com/album/you-got-your-punk-in-my-garage-the-best-of-the-garagepunk-hideout-vol-3",
     "https://grimestone.bandcamp.com/album/bogmoon-forgotten-wind-forgotten-moon",
+    "https://grimestone.bandcamp.com/album/curtan-wall-castle-crusher-8-bit",
     "https://grimestone.bandcamp.com/album/enshroud-despise-the-light",
     "https://grimestone.bandcamp.com/album/evil-dead-ii-s-t",
     "https://grimestone.bandcamp.com/album/glass-coffin-vampiric-coffin-coffin-fodder-cacoffiny",
@@ -10337,9 +10398,12 @@
     "https://izyan-records.bandcamp.com/track/--8",
     "https://jaanmusic.bandcamp.com/album/baghali?label=669146131&tab=music",
     "https://jameskrivchenia.bandcamp.com/album/a-new-found-relaxation?label=279402645&tab=music",
+    "https://janushoved.bandcamp.com/album/full-of-hope",
     "https://janushoved.bandcamp.com/album/h-jtid",
     "https://janushoved.bandcamp.com/album/healing-songs-ii",
     "https://janushoved.bandcamp.com/album/how-many-worlds-does-it-take",
+    "https://janushoved.bandcamp.com/album/hvide-d-re",
+    "https://janushoved.bandcamp.com/album/idioms-of-elation",
     "https://janushoved.bandcamp.com/album/irkalla-f-rste-del",
     "https://janushoved.bandcamp.com/album/kosmos-tr-der-i-sort-blomst",
     "https://janushoved.bandcamp.com/album/love-is-not-a-fugue-state",
@@ -10347,6 +10411,7 @@
     "https://janushoved.bandcamp.com/album/ny-dansk-romantik",
     "https://janushoved.bandcamp.com/album/paradise-tanager",
     "https://janushoved.bandcamp.com/album/piano-works",
+    "https://janushoved.bandcamp.com/album/sm-natlige-h-ndelser-f-rste-del",
     "https://janushoved.bandcamp.com/album/the-capricorn-collection-pt-1",
     "https://janushoved.bandcamp.com/album/the-capricorn-collection-pt-2",
     "https://janushoved.bandcamp.com/album/to-kroppe-af-samme-knogle-samme-s-d-samme-hjerte",
@@ -12088,6 +12153,7 @@
     "https://spiritpossession.bandcamp.com/album/cathedral-speech",
     "https://splitdiopter.bandcamp.com/album/to-bridge-and-bind?label=3672515860&tab=music",
     "https://splitterrecords.bandcamp.com/album/10-ill-songs",
+    "https://splitterrecords.bandcamp.com/album/artefakt",
     "https://splitterrecords.bandcamp.com/album/ball-pit",
     "https://splitterrecords.bandcamp.com/album/can-demo",
     "https://splitterrecords.bandcamp.com/album/dwa-wymiary",
@@ -12862,6 +12928,7 @@
     "https://worldofpaint.bandcamp.com/album/sounds-from-a-small-apartment-in-prague",
     "https://x-img.bandcamp.com/album/all-threads-suspended",
     "https://x-img.bandcamp.com/album/analog-fear",
+    "https://x-img.bandcamp.com/album/bautismo-de-fuego",
     "https://x-img.bandcamp.com/album/cold-hearts",
     "https://x-img.bandcamp.com/album/dysfunctionalism-2",
     "https://x-img.bandcamp.com/album/friction-code",
@@ -12871,11 +12938,13 @@
     "https://x-img.bandcamp.com/album/midnight-zone",
     "https://x-img.bandcamp.com/album/netherworld-glow",
     "https://x-img.bandcamp.com/album/rules-of-engagement",
+    "https://x-img.bandcamp.com/album/salvation",
     "https://x-img.bandcamp.com/album/searching-hell",
     "https://x-img.bandcamp.com/album/tesoros-infernales",
     "https://x-img.bandcamp.com/album/wall-of-shame",
     "https://x-img.bandcamp.com/album/watching-existence",
     "https://x-img.bandcamp.com/track/apostate",
+    "https://x-img.bandcamp.com/track/modern-metanoia",
     "https://x-img.bandcamp.com/track/wire-trip-live-at-grauzone",
     "https://xafya.bandcamp.com/album/iwmoe?label=3271309192&tab=music",
     "https://xiuxiu.bandcamp.com/album/13-frank-beltrame-italian-stiletto-with-bison-horn-grips",
@@ -12918,6 +12987,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-06T14:17:30.553558+00:00",
+  "last_checked": "2026-11-07T13:01:52.931150+00:00",
   "failed_catalogues": []
 }
