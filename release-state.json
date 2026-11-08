@@ -5580,6 +5580,7 @@
       "name": "B.G.",
       "url": "https://bg-sounds.bandcamp.com/music",
       "releases": [
+        "https://bg-sounds.bandcamp.com/album/four-compositions-final-passion",
         "https://capriceandnecessity.bandcamp.com/album/a-desire-for-innocence-four-ways-of-vanity",
         "https://capriceandnecessity.bandcamp.com/album/alternate-reality",
         "https://capriceandnecessity.bandcamp.com/album/choreographed-words",
@@ -8079,6 +8080,17 @@
           "source": "Janushoved"
         }
       ]
+    },
+    {
+      "day": "2026-11-08",
+      "pubDate": "Sun, 08 Nov 2026 13:25:54 GMT",
+      "releases": [
+        {
+          "url": "https://bg-sounds.bandcamp.com/album/four-compositions-final-passion",
+          "title": "Four Compositions (Final Passion)",
+          "source": "B.G."
+        }
+      ]
     }
   ],
   "seen": [
@@ -8513,6 +8525,7 @@
     "https://belgrado.bandcamp.com/album/panopticon-vicious-circle",
     "https://belgrado.bandcamp.com/album/siglo-xxi-2",
     "https://bellwitch.bandcamp.com/album/stygian-bough-volume-ii?label=1058594804&tab=music",
+    "https://bg-sounds.bandcamp.com/album/four-compositions-final-passion",
     "https://billotontraeger.bandcamp.com/album/achtung-adk",
     "https://billotontraeger.bandcamp.com/album/adk",
     "https://billotontraeger.bandcamp.com/album/au-nom-deus-asos",
@@ -12987,6 +13000,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-07T13:01:52.931150+00:00",
+  "last_checked": "2026-11-08T13:25:54.204161+00:00",
   "failed_catalogues": []
 }
