@@ -4147,6 +4147,7 @@
         "https://detritirecords.bandcamp.com/album/cold-contrast-the-stranger",
         "https://detritirecords.bandcamp.com/album/corpse-dalsace-lads-and-lovers-pedicatio-redux",
         "https://detritirecords.bandcamp.com/album/crying-skies-anthems-of-chruch",
+        "https://detritirecords.bandcamp.com/album/crying-skies-anthems-of-church",
         "https://detritirecords.bandcamp.com/album/doubleshot-passerby",
         "https://detritirecords.bandcamp.com/album/e2871-kt2374",
         "https://detritirecords.bandcamp.com/album/erik-eviston-all-you-are",
@@ -8091,6 +8092,17 @@
           "source": "B.G."
         }
       ]
+    },
+    {
+      "day": "2026-11-09",
+      "pubDate": "Mon, 09 Nov 2026 16:20:15 GMT",
+      "releases": [
+        {
+          "url": "https://detritirecords.bandcamp.com/album/crying-skies-anthems-of-church",
+          "title": "Crying Skies - Anthems of Church",
+          "source": "Detriti Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -9397,6 +9409,7 @@
     "https://detritirecords.bandcamp.com/album/cold-contrast-the-stranger",
     "https://detritirecords.bandcamp.com/album/corpse-dalsace-lads-and-lovers-pedicatio-redux",
     "https://detritirecords.bandcamp.com/album/crying-skies-anthems-of-chruch",
+    "https://detritirecords.bandcamp.com/album/crying-skies-anthems-of-church",
     "https://detritirecords.bandcamp.com/album/doubleshot-passerby",
     "https://detritirecords.bandcamp.com/album/e2871-kt2374",
     "https://detritirecords.bandcamp.com/album/erik-eviston-all-you-are",
@@ -13000,6 +13013,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-08T13:25:54.204161+00:00",
+  "last_checked": "2026-11-09T16:20:15.795786+00:00",
   "failed_catalogues": []
 }
