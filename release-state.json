@@ -4669,6 +4669,7 @@
       "releases": [
         "https://anxious18.bandcamp.com/album/dont-move?label=3305573312&tab=music",
         "https://anxious18.bandcamp.com/album/secret-weapon?label=3305573312&tab=music",
+        "https://armlock.bandcamp.com/album/amazing?label=3305573312&tab=music",
         "https://armlock.bandcamp.com/album/half-time-strobe?label=3305573312&tab=music",
         "https://basement.bandcamp.com/album/wired?label=3305573312&tab=music",
         "https://citizenmi.bandcamp.com/album/halcyon-blues?label=3305573312&tab=music",
@@ -8103,6 +8104,17 @@
           "source": "Detriti Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-10",
+      "pubDate": "Tue, 10 Nov 2026 14:54:25 GMT",
+      "releases": [
+        {
+          "url": "https://armlock.bandcamp.com/album/amazing?label=3305573312&tab=music",
+          "title": "Amazing Armlock",
+          "source": "Run For Cover Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8297,6 +8309,7 @@
     "https://archiviodiafonico.bandcamp.com/album/this-weirdo-dj-tries-to-make-love-songs",
     "https://archiviodiafonico.bandcamp.com/album/undo-2",
     "https://ariesrecords.bandcamp.com/album/the-lost-tapes",
+    "https://armlock.bandcamp.com/album/amazing?label=3305573312&tab=music",
     "https://armlock.bandcamp.com/album/half-time-strobe?label=3305573312&tab=music",
     "https://armor1.bandcamp.com/album/love-chaos?label=3899432707&tab=music",
     "https://artificialbrain.bandcamp.com/album/antillia?label=1058594804&tab=music",
@@ -13013,6 +13026,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-09T16:20:15.795786+00:00",
+  "last_checked": "2026-11-10T14:54:25.043099+00:00",
   "failed_catalogues": []
 }
