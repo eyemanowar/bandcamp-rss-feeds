@@ -3584,6 +3584,7 @@
         "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
         "https://rosafaenskap.bandcamp.com/album/ingenting-forblir?label=2244806283&tab=music",
         "https://rosafaenskap.bandcamp.com/album/klarhet-i-kaos?label=2244806283&tab=music",
+        "https://scoreboardmusic.bandcamp.com/album/combat-lvl-3?label=2244806283&tab=music",
         "https://scoreboardmusic.bandcamp.com/track/ropey-rampage?label=2244806283&tab=music",
         "https://scoreboardmusic.bandcamp.com/track/rush-spells?label=2244806283&tab=music",
         "https://sibiir.bandcamp.com/album/undergang?label=2244806283&tab=music",
@@ -8115,6 +8116,17 @@
           "source": "Run For Cover Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-11",
+      "pubDate": "Wed, 11 Nov 2026 14:23:44 GMT",
+      "releases": [
+        {
+          "url": "https://scoreboardmusic.bandcamp.com/album/combat-lvl-3?label=2244806283&tab=music",
+          "title": "combat lvl 3 scoreboard",
+          "source": "FysiskFormat"
+        }
+      ]
     }
   ],
   "seen": [
@@ -11915,6 +11927,7 @@
     "https://schnuppthepups.bandcamp.com/album/mannix",
     "https://schnuppthepups.bandcamp.com/album/the-heck-sessions-2017",
     "https://schnuppthepups.bandcamp.com/album/x-indicates-prior-damage",
+    "https://scoreboardmusic.bandcamp.com/album/combat-lvl-3?label=2244806283&tab=music",
     "https://scoreboardmusic.bandcamp.com/track/ropey-rampage?label=2244806283&tab=music",
     "https://scoreboardmusic.bandcamp.com/track/rush-spells?label=2244806283&tab=music",
     "https://scotdrakula.bandcamp.com/album/a-giant-spider",
@@ -13026,6 +13039,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-10T14:54:25.043099+00:00",
+  "last_checked": "2026-11-11T14:23:44.281254+00:00",
   "failed_catalogues": []
 }
