@@ -383,6 +383,7 @@
         "https://anxiousarms.bandcamp.com/album/in-the-shadow-of-the-cross?label=3767885783&tab=music",
         "https://cherrypikes.bandcamp.com/album/so-it-goes?label=3767885783&tab=music",
         "https://feverchildband.bandcamp.com/album/center-of-the-earth?label=3767885783&tab=music",
+        "https://forrestsw.bandcamp.com/track/strangers?label=3767885783&tab=music",
         "https://h5zel.bandcamp.com/album/ha-zel?label=3767885783&tab=music",
         "https://hollowsunsjpn.bandcamp.com/album/back-to-dust?label=3767885783&tab=music",
         "https://honorchoir.bandcamp.com/track/halo?label=3767885783&tab=music",
@@ -638,6 +639,7 @@
       "releases": [
         "https://tutamen.bandcamp.com/album/2-2",
         "https://tutamen.bandcamp.com/album/archived-vol-1",
+        "https://tutamen.bandcamp.com/album/archived-vol-2",
         "https://tutamen.bandcamp.com/album/boundaries-ep",
         "https://tutamen.bandcamp.com/album/breathing-relic",
         "https://tutamen.bandcamp.com/album/euphoria-ep",
@@ -1099,6 +1101,7 @@
         "https://opticnerve.bandcamp.com/album/angel-numbers?label=3339347384&tab=music",
         "https://quelindo666.bandcamp.com/album/demo-3?label=3339347384&tab=music",
         "https://quelindo666.bandcamp.com/track/what-else?label=3339347384&tab=music",
+        "https://questmaster.bandcamp.com/album/sword-circuitry?label=3339347384&tab=music",
         "https://rockmusicfanclub.bandcamp.com/album/club-hits-2?label=3339347384&tab=music",
         "https://rocktoforget.bandcamp.com/album/rock-to-forget?label=3339347384&tab=music",
         "https://tubealloys.bandcamp.com/album/computer-love-again?label=3339347384&tab=music",
@@ -6264,6 +6267,7 @@
       "name": "Metropolis Records",
       "url": "https://metropolisrecords.bandcamp.com/music",
       "releases": [
+        "https://agentsidegrinder.bandcamp.com/album/the-choir?label=3261176365&tab=music",
         "https://assemblage23.bandcamp.com/album/believe-inhalt-remix?label=3261176365&tab=music",
         "https://clanofxymox.bandcamp.com/album/broken-heart-fire?label=3261176365&tab=music",
         "https://damagecontrol5.bandcamp.com/album/blackout?label=3261176365&tab=music",
@@ -8127,6 +8131,32 @@
           "source": "FysiskFormat"
         }
       ]
+    },
+    {
+      "day": "2026-11-12",
+      "pubDate": "Thu, 12 Nov 2026 15:16:22 GMT",
+      "releases": [
+        {
+          "url": "https://forrestsw.bandcamp.com/track/strangers?label=3767885783&tab=music",
+          "title": "Strangers Forrest.",
+          "source": "Sunday Drive Records"
+        },
+        {
+          "url": "https://tutamen.bandcamp.com/album/archived-vol-2",
+          "title": "Archived, Vol.2 Inca Pax",
+          "source": "Tutamen"
+        },
+        {
+          "url": "https://questmaster.bandcamp.com/album/sword-circuitry?label=3339347384&tab=music",
+          "title": "Sword & Circuitry Quest Master",
+          "source": "Urge Records"
+        },
+        {
+          "url": "https://agentsidegrinder.bandcamp.com/album/the-choir?label=3261176365&tab=music",
+          "title": "The Choir Agent Side Grinder",
+          "source": "Metropolis Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8185,6 +8215,7 @@
     "https://aegir.bandcamp.com/album/bridges-ii?label=3763439362&tab=music",
     "https://aegir.bandcamp.com/album/bridges-iii?label=3763439362&tab=music",
     "https://aegir.bandcamp.com/album/conditioned-by-experience?label=3763439362&tab=music",
+    "https://agentsidegrinder.bandcamp.com/album/the-choir?label=3261176365&tab=music",
     "https://agriculturemusic.bandcamp.com/album/the-spiritual-sound-live-in-europe-2026?label=32919309&tab=music",
     "https://agriculturemusic.bandcamp.com/album/the-spiritual-sound?label=32919309&tab=music",
     "https://aishadevi.bandcamp.com/album/aura-4-everyone?label=3271309192&tab=music",
@@ -9933,6 +9964,7 @@
     "https://formerselves.bandcamp.com/album/fait-accompli",
     "https://formerselves.bandcamp.com/album/hope",
     "https://formerselves.bandcamp.com/album/telos",
+    "https://forrestsw.bandcamp.com/track/strangers?label=3767885783&tab=music",
     "https://forza-music.bandcamp.com/album/forza-06?label=2319455359&tab=music",
     "https://forza-music.bandcamp.com/album/forza-07?label=2319455359&tab=music",
     "https://forza-music.bandcamp.com/album/forza-08?label=2319455359&tab=music",
@@ -11729,6 +11761,7 @@
     "https://pynkie.bandcamp.com/track/funny-boy?label=279402645&tab=music",
     "https://quelindo666.bandcamp.com/album/demo-3?label=3339347384&tab=music",
     "https://quelindo666.bandcamp.com/track/what-else?label=3339347384&tab=music",
+    "https://questmaster.bandcamp.com/album/sword-circuitry?label=3339347384&tab=music",
     "https://quitlife7000.bandcamp.com/album/spin?label=1120206595&tab=music",
     "https://racine.bandcamp.com/album/amiti-s?label=3271309192&tab=music",
     "https://racine.bandcamp.com/album/delirium?label=3271309192&tab=music",
@@ -12730,6 +12763,7 @@
     "https://tuscanruins.bandcamp.com/album/miel?label=3198646640&tab=music",
     "https://tutamen.bandcamp.com/album/2-2",
     "https://tutamen.bandcamp.com/album/archived-vol-1",
+    "https://tutamen.bandcamp.com/album/archived-vol-2",
     "https://tutamen.bandcamp.com/album/boundaries-ep",
     "https://tutamen.bandcamp.com/album/breathing-relic",
     "https://tutamen.bandcamp.com/album/euphoria-ep",
@@ -13039,6 +13073,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-11T14:23:44.281254+00:00",
+  "last_checked": "2026-11-12T15:16:22.129950+00:00",
   "failed_catalogues": []
 }
