@@ -405,6 +405,8 @@
       "releases": [
         "https://grimestone.bandcamp.com/album/bogmoon-forgotten-wind-forgotten-moon",
         "https://grimestone.bandcamp.com/album/curtan-wall-castle-crusher-8-bit",
+        "https://grimestone.bandcamp.com/album/druid-stone-the-scars-of-dracula",
+        "https://grimestone.bandcamp.com/album/druid-stone-ugliest-bruises-wanteds-most-wanted",
         "https://grimestone.bandcamp.com/album/enshroud-despise-the-light",
         "https://grimestone.bandcamp.com/album/evil-dead-ii-s-t",
         "https://grimestone.bandcamp.com/album/glass-coffin-vampiric-coffin-coffin-fodder-cacoffiny",
@@ -1861,6 +1863,7 @@
         "https://coldtransmissionmusic.bandcamp.com/album/cold-transmission-festival-2026",
         "https://cryingvessel.bandcamp.com/track/angels-of-ruin?label=2685981971&tab=music",
         "https://danielknutz.bandcamp.com/album/echoes-album?label=2685981971&tab=music",
+        "https://danielknutz.bandcamp.com/album/i-will-give-you-my-love-remixes?label=2685981971&tab=music",
         "https://deadastronauts.bandcamp.com/album/shallow-grave?label=2685981971&tab=music",
         "https://iamnoone1.bandcamp.com/album/gloomy-days?label=2685981971&tab=music",
         "https://iamtheshadow.bandcamp.com/album/all-our-demons-beyond?label=2685981971&tab=music",
@@ -3621,7 +3624,9 @@
         "https://popularcultureshaman.bandcamp.com/track/untitled-11",
         "https://popularcultureshaman.bandcamp.com/track/untitled-12",
         "https://popularcultureshaman.bandcamp.com/track/untitled-13",
-        "https://popularcultureshaman.bandcamp.com/track/untitled-14"
+        "https://popularcultureshaman.bandcamp.com/track/untitled-14",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-15",
+        "https://popularcultureshaman.bandcamp.com/track/untitled-16"
       ]
     },
     "1523738837": {
@@ -7476,6 +7481,7 @@
         "https://sabotagerecords.bandcamp.com/album/aldi-ost-s-t-7",
         "https://sabotagerecords.bandcamp.com/album/cataphiles-shadow-self",
         "https://sabotagerecords.bandcamp.com/album/distance-le-d-cor-ep",
+        "https://sabotagerecords.bandcamp.com/album/echo-is-your-love-laundry-day",
         "https://sabotagerecords.bandcamp.com/album/es-war-mord-fr-hling-der-verr-ter",
         "https://sabotagerecords.bandcamp.com/album/free-sabocompilation",
         "https://sabotagerecords.bandcamp.com/album/lappel-du-vide-metro-lp",
@@ -8155,6 +8161,42 @@
           "url": "https://agentsidegrinder.bandcamp.com/album/the-choir?label=3261176365&tab=music",
           "title": "The Choir Agent Side Grinder",
           "source": "Metropolis Records"
+        }
+      ]
+    },
+    {
+      "day": "2026-11-13",
+      "pubDate": "Fri, 13 Nov 2026 14:35:46 GMT",
+      "releases": [
+        {
+          "url": "https://grimestone.bandcamp.com/album/druid-stone-ugliest-bruises-wanteds-most-wanted",
+          "title": "Druid Stone - Ugliest Bruises! (Wanted's Most Wanted) Druid Stone",
+          "source": "Grime Stone Records"
+        },
+        {
+          "url": "https://grimestone.bandcamp.com/album/druid-stone-the-scars-of-dracula",
+          "title": "Druid Stone - the Scars of Dracula Druid Stone",
+          "source": "Grime Stone Records"
+        },
+        {
+          "url": "https://danielknutz.bandcamp.com/album/i-will-give-you-my-love-remixes?label=2685981971&tab=music",
+          "title": "I Will Give You My Love (Remixes) Daniel Knutz",
+          "source": "COLD TRANSMISSION MUSIC"
+        },
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-16",
+          "title": "untitled 16",
+          "source": "shamane"
+        },
+        {
+          "url": "https://popularcultureshaman.bandcamp.com/track/untitled-15",
+          "title": "untitled 15",
+          "source": "shamane"
+        },
+        {
+          "url": "https://sabotagerecords.bandcamp.com/album/echo-is-your-love-laundry-day",
+          "title": "ECHO IS YOUR LOVE - LAUNDRY DAY",
+          "source": "sabotagerecords"
         }
       ]
     }
@@ -9280,6 +9322,7 @@
     "https://damcase.bandcamp.com/album/pi03-03?label=1730820773&tab=music",
     "https://dancefountain.bandcamp.com/album/im-watching?label=1096119241&tab=music",
     "https://danielknutz.bandcamp.com/album/echoes-album?label=2685981971&tab=music",
+    "https://danielknutz.bandcamp.com/album/i-will-give-you-my-love-remixes?label=2685981971&tab=music",
     "https://dansenoire.bandcamp.com/album/ghamccccxc-vrr",
     "https://dansenoire.bandcamp.com/album/kissing-myself",
     "https://darkclover-records.bandcamp.com/album/altiplano",
@@ -10164,6 +10207,8 @@
     "https://grgpnkrecords.bandcamp.com/album/you-got-your-punk-in-my-garage-the-best-of-the-garagepunk-hideout-vol-3",
     "https://grimestone.bandcamp.com/album/bogmoon-forgotten-wind-forgotten-moon",
     "https://grimestone.bandcamp.com/album/curtan-wall-castle-crusher-8-bit",
+    "https://grimestone.bandcamp.com/album/druid-stone-the-scars-of-dracula",
+    "https://grimestone.bandcamp.com/album/druid-stone-ugliest-bruises-wanteds-most-wanted",
     "https://grimestone.bandcamp.com/album/enshroud-despise-the-light",
     "https://grimestone.bandcamp.com/album/evil-dead-ii-s-t",
     "https://grimestone.bandcamp.com/album/glass-coffin-vampiric-coffin-coffin-fodder-cacoffiny",
@@ -11646,6 +11691,8 @@
     "https://popularcultureshaman.bandcamp.com/track/untitled-12",
     "https://popularcultureshaman.bandcamp.com/track/untitled-13",
     "https://popularcultureshaman.bandcamp.com/track/untitled-14",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-15",
+    "https://popularcultureshaman.bandcamp.com/track/untitled-16",
     "https://pornonvinyl.bandcamp.com/album/old-folks-home",
     "https://portogeese.bandcamp.com/album/pop-songs?label=2244806283&tab=music",
     "https://portrayalofguilt.bandcamp.com/album/beginning-of-the-end?label=3305573312&tab=music",
@@ -11918,6 +11965,7 @@
     "https://sabotagerecords.bandcamp.com/album/aldi-ost-s-t-7",
     "https://sabotagerecords.bandcamp.com/album/cataphiles-shadow-self",
     "https://sabotagerecords.bandcamp.com/album/distance-le-d-cor-ep",
+    "https://sabotagerecords.bandcamp.com/album/echo-is-your-love-laundry-day",
     "https://sabotagerecords.bandcamp.com/album/es-war-mord-fr-hling-der-verr-ter",
     "https://sabotagerecords.bandcamp.com/album/free-sabocompilation",
     "https://sabotagerecords.bandcamp.com/album/lappel-du-vide-metro-lp",
@@ -13073,6 +13121,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-12T15:16:22.129950+00:00",
+  "last_checked": "2026-11-13T14:35:46.168812+00:00",
   "failed_catalogues": []
 }
