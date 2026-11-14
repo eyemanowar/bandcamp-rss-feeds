@@ -4967,6 +4967,7 @@
         "https://masin.bandcamp.com/album/movement?label=237579501&tab=music",
         "https://oracogan.bandcamp.com/album/hard-hearted-woman?label=237579501&tab=music",
         "https://sacredbonesrecords.bandcamp.com/album/werwulf-original-motion-picture-soundtrack",
+        "https://sacredbonesrecords.bandcamp.com/album/wynter-waxeth-cold-moone",
         "https://sextile.bandcamp.com/track/women-respond-to-bass-schwefelgelb-remix?label=237579501&tab=music",
         "https://spellling.bandcamp.com/album/ammunition-featuring-jean-dawson?label=237579501&tab=music",
         "https://spikefuck.bandcamp.com/album/evidence?label=237579501&tab=music"
@@ -5440,6 +5441,7 @@
         "https://funeralparty.bandcamp.com/album/pedaleo-nocturno",
         "https://funeralparty.bandcamp.com/album/raw-extractions",
         "https://funeralparty.bandcamp.com/album/sparrows-tongue",
+        "https://funeralparty.bandcamp.com/album/the-saint-the-servant-the-sinner",
         "https://funeralparty.bandcamp.com/album/three-more-hits-from",
         "https://funeralparty.bandcamp.com/album/true-body-digital-hell",
         "https://funeralparty.bandcamp.com/album/when-the-black-hand-touches-you",
@@ -6387,6 +6389,7 @@
       "name": "FOREVER GREY",
       "url": "https://forevergrey.bandcamp.com/music",
       "releases": [
+        "https://forevergrey.bandcamp.com/album/a-silence-like-eternity",
         "https://forevergrey.bandcamp.com/album/alabaster-chamber",
         "https://forevergrey.bandcamp.com/album/autumn-calling",
         "https://forevergrey.bandcamp.com/album/boundaries",
@@ -8199,6 +8202,27 @@
           "source": "sabotagerecords"
         }
       ]
+    },
+    {
+      "day": "2026-11-14",
+      "pubDate": "Sat, 14 Nov 2026 13:31:45 GMT",
+      "releases": [
+        {
+          "url": "https://sacredbonesrecords.bandcamp.com/album/wynter-waxeth-cold-moone",
+          "title": "Wynter Waxeth / Cold Moone Ethel Cain & Robin Carolan",
+          "source": "Sacred Bones Records"
+        },
+        {
+          "url": "https://funeralparty.bandcamp.com/album/the-saint-the-servant-the-sinner",
+          "title": "The Saint, The Servant, The Sinner Superior & Let The Dirt Say Amen",
+          "source": "The Funeral Party"
+        },
+        {
+          "url": "https://forevergrey.bandcamp.com/album/a-silence-like-eternity",
+          "title": "A Silence Like Eternity",
+          "source": "FOREVER GREY"
+        }
+      ]
     }
   ],
   "seen": [
@@ -9974,6 +9998,7 @@
     "https://foresting.bandcamp.com/album/no-fun",
     "https://foresting.bandcamp.com/album/nowhere",
     "https://foresting.bandcamp.com/album/the-moon-is-man",
+    "https://forevergrey.bandcamp.com/album/a-silence-like-eternity",
     "https://forevergrey.bandcamp.com/album/alabaster-chamber",
     "https://forevergrey.bandcamp.com/album/autumn-calling",
     "https://forevergrey.bandcamp.com/album/boundaries",
@@ -10056,6 +10081,7 @@
     "https://funeralparty.bandcamp.com/album/pedaleo-nocturno",
     "https://funeralparty.bandcamp.com/album/raw-extractions",
     "https://funeralparty.bandcamp.com/album/sparrows-tongue",
+    "https://funeralparty.bandcamp.com/album/the-saint-the-servant-the-sinner",
     "https://funeralparty.bandcamp.com/album/three-more-hits-from",
     "https://funeralparty.bandcamp.com/album/true-body-digital-hell",
     "https://funeralparty.bandcamp.com/album/when-the-black-hand-touches-you",
@@ -11980,6 +12006,7 @@
     "https://sabotagerecords.bandcamp.com/album/wax-minds-funatic-asylum-10",
     "https://sabotagerecords.bandcamp.com/track/echo-is-your-love-keep-your-feet-warm",
     "https://sacredbonesrecords.bandcamp.com/album/werwulf-original-motion-picture-soundtrack",
+    "https://sacredbonesrecords.bandcamp.com/album/wynter-waxeth-cold-moone",
     "https://sadurn.bandcamp.com/album/the-underworld?label=3305573312&tab=music",
     "https://salviapalth.bandcamp.com/album/last-chance-to-see",
     "https://salviapalth.bandcamp.com/album/melanchole",
@@ -13121,6 +13148,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-13T14:35:46.168812+00:00",
+  "last_checked": "2026-11-14T13:31:45.577679+00:00",
   "failed_catalogues": []
 }
