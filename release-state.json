@@ -1442,6 +1442,7 @@
       "releases": [
         "https://crouxrecords.bandcamp.com/album/despise-them",
         "https://crouxrecords.bandcamp.com/album/effectivement",
+        "https://crouxrecords.bandcamp.com/album/europa",
         "https://crouxrecords.bandcamp.com/album/la-nuit-je-vois-tout",
         "https://crouxrecords.bandcamp.com/album/luz-p-lida",
         "https://crouxrecords.bandcamp.com/album/mystique-rudimentaire",
@@ -8223,6 +8224,17 @@
           "source": "FOREVER GREY"
         }
       ]
+    },
+    {
+      "day": "2026-11-16",
+      "pubDate": "Mon, 16 Nov 2026 15:47:32 GMT",
+      "releases": [
+        {
+          "url": "https://crouxrecords.bandcamp.com/album/europa",
+          "title": "EUROPA Paul Loiseau",
+          "source": "CROUX records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -9284,6 +9296,7 @@
     "https://croatianamorscandinavianstar-poshisolation.bandcamp.com/album/new-healer?label=263068548&tab=music",
     "https://crouxrecords.bandcamp.com/album/despise-them",
     "https://crouxrecords.bandcamp.com/album/effectivement",
+    "https://crouxrecords.bandcamp.com/album/europa",
     "https://crouxrecords.bandcamp.com/album/la-nuit-je-vois-tout",
     "https://crouxrecords.bandcamp.com/album/luz-p-lida",
     "https://crouxrecords.bandcamp.com/album/mystique-rudimentaire",
@@ -13148,6 +13161,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-15T13:56:37.060525+00:00",
+  "last_checked": "2026-11-16T15:47:32.692890+00:00",
   "failed_catalogues": []
 }
