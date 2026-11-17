@@ -832,6 +832,7 @@
         "https://worldofpaint.bandcamp.com/album/dancing-crying-ep1",
         "https://worldofpaint.bandcamp.com/album/dancing-crying-ep2",
         "https://worldofpaint.bandcamp.com/album/het-vreemd-dutch-underground-synth-wave-1982-1987",
+        "https://worldofpaint.bandcamp.com/album/hk-sunset-city-baby",
         "https://worldofpaint.bandcamp.com/album/im-cindy",
         "https://worldofpaint.bandcamp.com/album/make-a-film",
         "https://worldofpaint.bandcamp.com/album/quiet-fx",
@@ -3342,7 +3343,8 @@
         "https://space-afrika.bandcamp.com/album/quiet-storm?label=2898100025&tab=music",
         "https://stada2mg.bandcamp.com/album/ch0-0-00-01?label=2898100025&tab=music",
         "https://stephenomalley.bandcamp.com/album/avaeken?label=2898100025&tab=music",
-        "https://traumaray.bandcamp.com/album/carnival?label=2898100025&tab=music"
+        "https://traumaray.bandcamp.com/album/carnival?label=2898100025&tab=music",
+        "https://xenoandoaklander.bandcamp.com/album/citadelle?label=2898100025&tab=music"
       ]
     },
     "2776521386": {
@@ -4689,6 +4691,7 @@
         "https://g6d6p6.bandcamp.com/album/cross-off-matthew?label=3305573312&tab=music",
         "https://grahamhunt.bandcamp.com/album/american-pyramid?label=3305573312&tab=music",
         "https://horsejumperoflove.bandcamp.com/album/horse-jumper-of-love-10-year-anniversary-edition?label=3305573312&tab=music",
+        "https://narrowheadtx.bandcamp.com/album/wheel?label=3305573312&tab=music",
         "https://onestepcloserxxx.bandcamp.com/album/zero?label=3305573312&tab=music",
         "https://portrayalofguilt.bandcamp.com/album/beginning-of-the-end?label=3305573312&tab=music",
         "https://sadurn.bandcamp.com/album/the-underworld?label=3305573312&tab=music",
@@ -8235,6 +8238,27 @@
           "source": "CROUX records"
         }
       ]
+    },
+    {
+      "day": "2026-11-17",
+      "pubDate": "Tue, 17 Nov 2026 17:09:19 GMT",
+      "releases": [
+        {
+          "url": "https://worldofpaint.bandcamp.com/album/hk-sunset-city-baby",
+          "title": "HK Sunset City Baby Mercury Fèng",
+          "source": "World Of Paint"
+        },
+        {
+          "url": "https://xenoandoaklander.bandcamp.com/album/citadelle?label=2898100025&tab=music",
+          "title": "Citadelle Xeno & Oaklander",
+          "source": "Dais Records"
+        },
+        {
+          "url": "https://narrowheadtx.bandcamp.com/album/wheel?label=3305573312&tab=music",
+          "title": "Wheel Narrow Head",
+          "source": "Run For Cover Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -11255,6 +11279,7 @@
     "https://naghardcore.bandcamp.com/album/boys-of-europe?label=2244806283&tab=music",
     "https://naokizushi.bandcamp.com/album/iii?label=669146131&tab=music",
     "https://naokizushi.bandcamp.com/album/paradise?label=669146131&tab=music",
+    "https://narrowheadtx.bandcamp.com/album/wheel?label=3305573312&tab=music",
     "https://nationoflanguage.bandcamp.com/album/a-way-forward",
     "https://nationoflanguage.bandcamp.com/album/dance-called-memory",
     "https://nationoflanguage.bandcamp.com/album/inept-apollo-tom-sharkett-remix",
@@ -13095,6 +13120,7 @@
     "https://worldofpaint.bandcamp.com/album/dancing-crying-ep1",
     "https://worldofpaint.bandcamp.com/album/dancing-crying-ep2",
     "https://worldofpaint.bandcamp.com/album/het-vreemd-dutch-underground-synth-wave-1982-1987",
+    "https://worldofpaint.bandcamp.com/album/hk-sunset-city-baby",
     "https://worldofpaint.bandcamp.com/album/im-cindy",
     "https://worldofpaint.bandcamp.com/album/make-a-film",
     "https://worldofpaint.bandcamp.com/album/quiet-fx",
@@ -13121,6 +13147,7 @@
     "https://x-img.bandcamp.com/track/modern-metanoia",
     "https://x-img.bandcamp.com/track/wire-trip-live-at-grauzone",
     "https://xafya.bandcamp.com/album/iwmoe?label=3271309192&tab=music",
+    "https://xenoandoaklander.bandcamp.com/album/citadelle?label=2898100025&tab=music",
     "https://xiuxiu.bandcamp.com/album/13-frank-beltrame-italian-stiletto-with-bison-horn-grips",
     "https://xiuxiu.bandcamp.com/album/a-real-indication",
     "https://xiuxiu.bandcamp.com/album/angel-guts-red-classroom",
@@ -13161,6 +13188,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-16T15:47:32.692890+00:00",
+  "last_checked": "2026-11-17T17:09:19.005928+00:00",
   "failed_catalogues": []
 }
