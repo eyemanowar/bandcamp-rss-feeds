@@ -56,6 +56,7 @@
         "https://digitalhotdogs.bandcamp.com/album/did-you-know",
         "https://digitalhotdogs.bandcamp.com/album/firewalker",
         "https://digitalhotdogs.bandcamp.com/album/gentrification-station-v",
+        "https://digitalhotdogs.bandcamp.com/album/in-a-world",
         "https://digitalhotdogs.bandcamp.com/album/miracle-whip-it",
         "https://digitalhotdogs.bandcamp.com/album/passion-is-failing",
         "https://digitalhotdogs.bandcamp.com/album/salutations-from-the-moon",
@@ -496,7 +497,8 @@
         "https://perocholof.bandcamp.com/album/jag-gl-mde-n-t-hos-dig?label=1619499676&tab=music",
         "https://ramalama.bandcamp.com/album/rama-lama-records-2016-2026",
         "https://ramalama.bandcamp.com/album/rama-lama-records-2025",
-        "https://valoato.bandcamp.com/track/1-1-2?label=1619499676&tab=music"
+        "https://valoato.bandcamp.com/track/1-1-2?label=1619499676&tab=music",
+        "https://valoato.bandcamp.com/track/en-ledig-eftermiddag?label=1619499676&tab=music"
       ]
     },
     "3075634888": {
@@ -5598,6 +5600,7 @@
       "url": "https://bg-sounds.bandcamp.com/music",
       "releases": [
         "https://bg-sounds.bandcamp.com/album/four-compositions-final-passion",
+        "https://bg-sounds.bandcamp.com/album/polinate-improvised-sounds-for-percussion-and-modular-synthesis",
         "https://capriceandnecessity.bandcamp.com/album/a-desire-for-innocence-four-ways-of-vanity",
         "https://capriceandnecessity.bandcamp.com/album/alternate-reality",
         "https://capriceandnecessity.bandcamp.com/album/choreographed-words",
@@ -6294,6 +6297,7 @@
         "https://magic-wands.bandcamp.com/album/guardians?label=3261176365&tab=music",
         "https://marikattman.bandcamp.com/album/its-in-the-losing-you?label=3261176365&tab=music",
         "https://massminor.bandcamp.com/album/get-up?label=3261176365&tab=music",
+        "https://metropolisrecords.bandcamp.com/album/calm-within-the-storm",
         "https://pigindustries.bandcamp.com/album/dirt-box?label=3261176365&tab=music",
         "https://rotersand.bandcamp.com/album/merging-oceans-train?label=3261176365&tab=music",
         "https://sourtongue.bandcamp.com/album/company-karaoke-party?label=3261176365&tab=music",
@@ -6666,6 +6670,7 @@
         "https://avantrecords.bandcamp.com/album/silver-tears",
         "https://avantrecords.bandcamp.com/album/ta-g-na-cht",
         "https://avantrecords.bandcamp.com/album/when-it-rains",
+        "https://avantrecords.bandcamp.com/album/why-art-thou-wroth-and-why-is-thy-countenance-fallen",
         "https://avantrecords.bandcamp.com/album/year-of-the-mask-2020-free-sampler"
       ]
     },
@@ -8259,6 +8264,37 @@
           "source": "Run For Cover Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-18",
+      "pubDate": "Wed, 18 Nov 2026 15:45:11 GMT",
+      "releases": [
+        {
+          "url": "https://digitalhotdogs.bandcamp.com/album/in-a-world",
+          "title": "In A World Warm Swords",
+          "source": "Digital Hotdogs"
+        },
+        {
+          "url": "https://valoato.bandcamp.com/track/en-ledig-eftermiddag?label=1619499676&tab=music",
+          "title": "En ledig eftermiddag VALO ATO",
+          "source": "Rama Lama Records"
+        },
+        {
+          "url": "https://bg-sounds.bandcamp.com/album/polinate-improvised-sounds-for-percussion-and-modular-synthesis",
+          "title": "Polinate: Improvised Sounds for Percussion and Modular Synthesis",
+          "source": "B.G."
+        },
+        {
+          "url": "https://metropolisrecords.bandcamp.com/album/calm-within-the-storm",
+          "title": "Calm Within The Storm Various Artists",
+          "source": "Metropolis Records"
+        },
+        {
+          "url": "https://avantrecords.bandcamp.com/album/why-art-thou-wroth-and-why-is-thy-countenance-fallen",
+          "title": "Why art thou wroth? And why is thy countenance fallen? PROFIT PRISON",
+          "source": "AVANT! Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8659,6 +8695,7 @@
     "https://avantrecords.bandcamp.com/album/silver-tears",
     "https://avantrecords.bandcamp.com/album/ta-g-na-cht",
     "https://avantrecords.bandcamp.com/album/when-it-rains",
+    "https://avantrecords.bandcamp.com/album/why-art-thou-wroth-and-why-is-thy-countenance-fallen",
     "https://avantrecords.bandcamp.com/album/year-of-the-mask-2020-free-sampler",
     "https://balacade.bandcamp.com/album/echoland-lost-tapes",
     "https://balacade.bandcamp.com/album/friends-forever",
@@ -8696,6 +8733,7 @@
     "https://belgrado.bandcamp.com/album/siglo-xxi-2",
     "https://bellwitch.bandcamp.com/album/stygian-bough-volume-ii?label=1058594804&tab=music",
     "https://bg-sounds.bandcamp.com/album/four-compositions-final-passion",
+    "https://bg-sounds.bandcamp.com/album/polinate-improvised-sounds-for-percussion-and-modular-synthesis",
     "https://billotontraeger.bandcamp.com/album/achtung-adk",
     "https://billotontraeger.bandcamp.com/album/adk",
     "https://billotontraeger.bandcamp.com/album/au-nom-deus-asos",
@@ -9599,6 +9637,7 @@
     "https://digitalhotdogs.bandcamp.com/album/did-you-know",
     "https://digitalhotdogs.bandcamp.com/album/firewalker",
     "https://digitalhotdogs.bandcamp.com/album/gentrification-station-v",
+    "https://digitalhotdogs.bandcamp.com/album/in-a-world",
     "https://digitalhotdogs.bandcamp.com/album/miracle-whip-it",
     "https://digitalhotdogs.bandcamp.com/album/passion-is-failing",
     "https://digitalhotdogs.bandcamp.com/album/salutations-from-the-moon",
@@ -11093,6 +11132,7 @@
     "https://mesacosa.bandcamp.com/album/el-es-demons",
     "https://mesacosa.bandcamp.com/album/infernal-cakewalk-ep",
     "https://mesacosa.bandcamp.com/album/yaya-brouhaha",
+    "https://metropolisrecords.bandcamp.com/album/calm-within-the-storm",
     "https://meukomeuko.bandcamp.com/album/ghost-island?label=3271309192&tab=music",
     "https://milhaven.bandcamp.com/album/automata",
     "https://milhaven.bandcamp.com/album/bars-closing-down",
@@ -12961,6 +13001,7 @@
     "https://vacant.bandcamp.com/track/without-you",
     "https://valeriotricoli.bandcamp.com/album/ch-teau-mord-coly?label=1750868732&tab=music",
     "https://valoato.bandcamp.com/track/1-1-2?label=1619499676&tab=music",
+    "https://valoato.bandcamp.com/track/en-ledig-eftermiddag?label=1619499676&tab=music",
     "https://vanessaamara-poshisolation.bandcamp.com/album/caf-life?label=263068548&tab=music",
     "https://vanitypilltapes.bandcamp.com/album/7-songs-of-the-apocalypse",
     "https://vanitypilltapes.bandcamp.com/album/alocasia-garden-remixes",
@@ -13188,6 +13229,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-17T17:09:19.005928+00:00",
+  "last_checked": "2026-11-18T15:45:11.110803+00:00",
   "failed_catalogues": []
 }
