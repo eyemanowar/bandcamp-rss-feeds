@@ -168,6 +168,7 @@
         "https://popularaffliction.bandcamp.com/album/maxi-and-marky",
         "https://popularaffliction.bandcamp.com/album/prettiest-girl-in-the-whole-wide-world",
         "https://popularaffliction.bandcamp.com/album/punkys-peepaw",
+        "https://popularaffliction.bandcamp.com/album/rock-n-roll-for-idiots-2",
         "https://popularaffliction.bandcamp.com/album/split-4",
         "https://popularaffliction.bandcamp.com/album/to-the-grave"
       ]
@@ -255,6 +256,7 @@
         "https://cryptofthewizard.bandcamp.com/album/slutet",
         "https://cryptofthewizard.bandcamp.com/album/tar",
         "https://cryptofthewizard.bandcamp.com/album/the-curious-flora-and-fauna-of-the-ancient-world",
+        "https://cryptofthewizard.bandcamp.com/album/the-house-of-his-spirit-crumbles",
         "https://cryptofthewizard.bandcamp.com/album/verminous-transmogrification-abject-depression-demo-1"
       ]
     },
@@ -1393,6 +1395,7 @@
         "https://primitivepropaganda.bandcamp.com/album/terminal-burrowing",
         "https://primitivepropaganda.bandcamp.com/album/the-long-lonesome-night",
         "https://primitivepropaganda.bandcamp.com/album/thieves-about-the-watchtower",
+        "https://primitivepropaganda.bandcamp.com/album/trauma-tactics",
         "https://primitivepropaganda.bandcamp.com/album/vilomah",
         "https://primitivepropaganda.bandcamp.com/album/waiting-for-the-light-to-take-me-away",
         "https://primitivepropaganda.bandcamp.com/album/xenolith",
@@ -1866,6 +1869,7 @@
       "releases": [
         "https://coldtransmissionmusic.bandcamp.com/album/cold-transmission-festival-2026",
         "https://cryingvessel.bandcamp.com/track/angels-of-ruin?label=2685981971&tab=music",
+        "https://cryingvessel.bandcamp.com/track/social-panic?label=2685981971&tab=music",
         "https://danielknutz.bandcamp.com/album/echoes-album?label=2685981971&tab=music",
         "https://danielknutz.bandcamp.com/album/i-will-give-you-my-love-remixes?label=2685981971&tab=music",
         "https://deadastronauts.bandcamp.com/album/shallow-grave?label=2685981971&tab=music",
@@ -2371,6 +2375,7 @@
         "https://hospitalproductions.bandcamp.com/album/effort",
         "https://hospitalproductions.bandcamp.com/album/flying-saucer-the-promise-land",
         "https://hospitalproductions.bandcamp.com/album/futurist-asceticism",
+        "https://hospitalproductions.bandcamp.com/album/icon-of-sadism",
         "https://hospitalproductions.bandcamp.com/album/metal-stairs",
         "https://hospitalproductions.bandcamp.com/album/militarised-bakuhatsu-orgasm",
         "https://hospitalproductions.bandcamp.com/album/the-cult-of-the-knife",
@@ -3701,8 +3706,10 @@
         "https://lavidaesunmus.bandcamp.com/album/enemy",
         "https://lavidaesunmus.bandcamp.com/album/fatigue-mes-h-ros",
         "https://lavidaesunmus.bandcamp.com/album/h-las",
+        "https://lavidaesunmus.bandcamp.com/album/ikonoklasme",
         "https://lavidaesunmus.bandcamp.com/album/is-it-really-living",
         "https://lavidaesunmus.bandcamp.com/album/last-songs",
+        "https://lavidaesunmus.bandcamp.com/album/live-from-death-row",
         "https://lavidaesunmus.bandcamp.com/album/not-asking-for-much",
         "https://lavidaesunmus.bandcamp.com/album/paratiisi",
         "https://lavidaesunmus.bandcamp.com/album/prendre-le-pouvoir-par-la-force",
@@ -4532,6 +4539,7 @@
         "https://mapledeathrecords.bandcamp.com/album/naebula",
         "https://mapledeathrecords.bandcamp.com/album/ora-sono-un-lago",
         "https://mapledeathrecords.bandcamp.com/album/phren",
+        "https://mapledeathrecords.bandcamp.com/album/sword-swallowers",
         "https://mapledeathrecords.bandcamp.com/album/the-garden",
         "https://mapledeathrecords.bandcamp.com/album/to-remind-myself-i-have-lived-collage-works-2020-2025",
         "https://mapledeathrecords.bandcamp.com/album/un-sequestro-lungo-10000-anni"
@@ -8295,6 +8303,52 @@
           "source": "AVANT! Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-20",
+      "pubDate": "Fri, 20 Nov 2026 15:27:35 GMT",
+      "releases": [
+        {
+          "url": "https://popularaffliction.bandcamp.com/album/rock-n-roll-for-idiots-2",
+          "title": "Rock n Roll for Idiots Blisters",
+          "source": "Pop Affliction Records"
+        },
+        {
+          "url": "https://cryptofthewizard.bandcamp.com/album/the-house-of-his-spirit-crumbles",
+          "title": "The House of his Spirit Crumbles Ginger Wizard & The Peter Jacksons",
+          "source": "Crypt of the Wizard"
+        },
+        {
+          "url": "https://primitivepropaganda.bandcamp.com/album/trauma-tactics",
+          "title": "Trauma Tactics Valediction",
+          "source": "Primitive Propaganda"
+        },
+        {
+          "url": "https://cryingvessel.bandcamp.com/track/social-panic?label=2685981971&tab=music",
+          "title": "Social Panic Crying Vessel",
+          "source": "COLD TRANSMISSION MUSIC"
+        },
+        {
+          "url": "https://hospitalproductions.bandcamp.com/album/icon-of-sadism",
+          "title": "Icon Of Sadism Jumping Tiger",
+          "source": "Hospital Productions"
+        },
+        {
+          "url": "https://lavidaesunmus.bandcamp.com/album/live-from-death-row",
+          "title": "Live From Death Row Tube Alloys",
+          "source": "LA VIDA ES UN MUS DISCOS"
+        },
+        {
+          "url": "https://lavidaesunmus.bandcamp.com/album/ikonoklasme",
+          "title": "Ikonoklasme Cave Sex",
+          "source": "LA VIDA ES UN MUS DISCOS"
+        },
+        {
+          "url": "https://mapledeathrecords.bandcamp.com/album/sword-swallowers",
+          "title": "Sword Swallowers Hallelujah!",
+          "source": "Maple Death Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -9380,6 +9434,7 @@
     "https://cryingatprom.bandcamp.com/track/beauty-queen",
     "https://cryingatprom.bandcamp.com/track/motion-picture-soundtrack",
     "https://cryingvessel.bandcamp.com/track/angels-of-ruin?label=2685981971&tab=music",
+    "https://cryingvessel.bandcamp.com/track/social-panic?label=2685981971&tab=music",
     "https://cryptofthewizard.bandcamp.com/album/a-violent-egress",
     "https://cryptofthewizard.bandcamp.com/album/abyss-ekstasis",
     "https://cryptofthewizard.bandcamp.com/album/alle-d-r-i-fremtiden",
@@ -9395,6 +9450,7 @@
     "https://cryptofthewizard.bandcamp.com/album/slutet",
     "https://cryptofthewizard.bandcamp.com/album/tar",
     "https://cryptofthewizard.bandcamp.com/album/the-curious-flora-and-fauna-of-the-ancient-world",
+    "https://cryptofthewizard.bandcamp.com/album/the-house-of-his-spirit-crumbles",
     "https://cryptofthewizard.bandcamp.com/album/verminous-transmogrification-abject-depression-demo-1",
     "https://crystallinestricturemusic.bandcamp.com/album/contaminant",
     "https://crystallinestricturemusic.bandcamp.com/album/nouveau-neon",
@@ -10472,6 +10528,7 @@
     "https://hospitalproductions.bandcamp.com/album/effort",
     "https://hospitalproductions.bandcamp.com/album/flying-saucer-the-promise-land",
     "https://hospitalproductions.bandcamp.com/album/futurist-asceticism",
+    "https://hospitalproductions.bandcamp.com/album/icon-of-sadism",
     "https://hospitalproductions.bandcamp.com/album/metal-stairs",
     "https://hospitalproductions.bandcamp.com/album/militarised-bakuhatsu-orgasm",
     "https://hospitalproductions.bandcamp.com/album/the-cult-of-the-knife",
@@ -10803,8 +10860,10 @@
     "https://lavidaesunmus.bandcamp.com/album/enemy",
     "https://lavidaesunmus.bandcamp.com/album/fatigue-mes-h-ros",
     "https://lavidaesunmus.bandcamp.com/album/h-las",
+    "https://lavidaesunmus.bandcamp.com/album/ikonoklasme",
     "https://lavidaesunmus.bandcamp.com/album/is-it-really-living",
     "https://lavidaesunmus.bandcamp.com/album/last-songs",
+    "https://lavidaesunmus.bandcamp.com/album/live-from-death-row",
     "https://lavidaesunmus.bandcamp.com/album/not-asking-for-much",
     "https://lavidaesunmus.bandcamp.com/album/paratiisi",
     "https://lavidaesunmus.bandcamp.com/album/prendre-le-pouvoir-par-la-force",
@@ -11016,6 +11075,7 @@
     "https://mapledeathrecords.bandcamp.com/album/naebula",
     "https://mapledeathrecords.bandcamp.com/album/ora-sono-un-lago",
     "https://mapledeathrecords.bandcamp.com/album/phren",
+    "https://mapledeathrecords.bandcamp.com/album/sword-swallowers",
     "https://mapledeathrecords.bandcamp.com/album/the-garden",
     "https://mapledeathrecords.bandcamp.com/album/to-remind-myself-i-have-lived-collage-works-2020-2025",
     "https://mapledeathrecords.bandcamp.com/album/un-sequestro-lungo-10000-anni",
@@ -11772,6 +11832,7 @@
     "https://popularaffliction.bandcamp.com/album/maxi-and-marky",
     "https://popularaffliction.bandcamp.com/album/prettiest-girl-in-the-whole-wide-world",
     "https://popularaffliction.bandcamp.com/album/punkys-peepaw",
+    "https://popularaffliction.bandcamp.com/album/rock-n-roll-for-idiots-2",
     "https://popularaffliction.bandcamp.com/album/split-4",
     "https://popularaffliction.bandcamp.com/album/to-the-grave",
     "https://popularcultureshaman.bandcamp.com/album/2-b3com3z-1",
@@ -11846,6 +11907,7 @@
     "https://primitivepropaganda.bandcamp.com/album/terminal-burrowing",
     "https://primitivepropaganda.bandcamp.com/album/the-long-lonesome-night",
     "https://primitivepropaganda.bandcamp.com/album/thieves-about-the-watchtower",
+    "https://primitivepropaganda.bandcamp.com/album/trauma-tactics",
     "https://primitivepropaganda.bandcamp.com/album/vilomah",
     "https://primitivepropaganda.bandcamp.com/album/waiting-for-the-light-to-take-me-away",
     "https://primitivepropaganda.bandcamp.com/album/xenolith",
@@ -13229,6 +13291,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-19T15:44:58.691265+00:00",
+  "last_checked": "2026-11-20T15:27:35.183837+00:00",
   "failed_catalogues": []
 }
