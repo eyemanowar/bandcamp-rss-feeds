@@ -1077,6 +1077,7 @@
       "releases": [
         "https://mangelrecords.bandcamp.com/album/aktion-reaktion",
         "https://mangelrecords.bandcamp.com/album/antrag-abgelehnt",
+        "https://mangelrecords.bandcamp.com/album/artefakt",
         "https://mangelrecords.bandcamp.com/album/das-ende",
         "https://mangelrecords.bandcamp.com/album/die-knochen-die-kanten",
         "https://mangelrecords.bandcamp.com/album/double-pleasure",
@@ -1113,6 +1114,7 @@
         "https://rocktoforget.bandcamp.com/album/rock-to-forget?label=3339347384&tab=music",
         "https://tubealloys.bandcamp.com/album/computer-love-again?label=3339347384&tab=music",
         "https://tubealloys.bandcamp.com/album/evil-angels?label=3339347384&tab=music",
+        "https://tubealloys.bandcamp.com/album/live-from-death-row?label=3339347384&tab=music",
         "https://tubealloys.bandcamp.com/album/magnetic-point-2?label=3339347384&tab=music"
       ]
     },
@@ -8349,6 +8351,22 @@
           "source": "Maple Death Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-21",
+      "pubDate": "Sat, 21 Nov 2026 14:39:59 GMT",
+      "releases": [
+        {
+          "url": "https://mangelrecords.bandcamp.com/album/artefakt",
+          "title": "Artefakt OKRA",
+          "source": "Mangel"
+        },
+        {
+          "url": "https://tubealloys.bandcamp.com/album/live-from-death-row?label=3339347384&tab=music",
+          "title": "Live From Death Row Tube Alloys",
+          "source": "Urge Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -11026,6 +11044,7 @@
     "https://mandyindiana.bandcamp.com/album/urgh?label=237579501&tab=music",
     "https://mangelrecords.bandcamp.com/album/aktion-reaktion",
     "https://mangelrecords.bandcamp.com/album/antrag-abgelehnt",
+    "https://mangelrecords.bandcamp.com/album/artefakt",
     "https://mangelrecords.bandcamp.com/album/das-ende",
     "https://mangelrecords.bandcamp.com/album/die-knochen-die-kanten",
     "https://mangelrecords.bandcamp.com/album/double-pleasure",
@@ -12971,6 +12990,7 @@
     "https://trysteromusic.bandcamp.com/album/sfumare-e-vedere?label=991258930&tab=music",
     "https://tubealloys.bandcamp.com/album/computer-love-again?label=3339347384&tab=music",
     "https://tubealloys.bandcamp.com/album/evil-angels?label=3339347384&tab=music",
+    "https://tubealloys.bandcamp.com/album/live-from-death-row?label=3339347384&tab=music",
     "https://tubealloys.bandcamp.com/album/magnetic-point-2?label=3339347384&tab=music",
     "https://tuffie.bandcamp.com/album/tuffie?label=3767885783&tab=music",
     "https://turnofphrasehc.bandcamp.com/album/out-in-the-water?label=3767885783&tab=music",
@@ -13291,6 +13311,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-20T15:27:35.183837+00:00",
+  "last_checked": "2026-11-21T14:39:59.905584+00:00",
   "failed_catalogues": []
 }
