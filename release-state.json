@@ -5337,6 +5337,7 @@
         "https://aufnahmeundwiedergabe.bandcamp.com/album/absolute-times-of-upheaval",
         "https://aufnahmeundwiedergabe.bandcamp.com/album/decivilization",
         "https://aufnahmeundwiedergabe.bandcamp.com/album/der-flieder-brennt",
+        "https://aufnahmeundwiedergabe.bandcamp.com/album/ein-sarg",
         "https://aufnahmeundwiedergabe.bandcamp.com/album/f-nfzehn-ein-hit-in-grau",
         "https://aufnahmeundwiedergabe.bandcamp.com/album/freakshow-lullabies-and-nightmares",
         "https://aufnahmeundwiedergabe.bandcamp.com/album/i-poslije-linije-linija",
@@ -8367,6 +8368,17 @@
           "source": "Urge Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-22",
+      "pubDate": "Sun, 22 Nov 2026 14:35:28 GMT",
+      "releases": [
+        {
+          "url": "https://aufnahmeundwiedergabe.bandcamp.com/album/ein-sarg",
+          "title": "Ein Sarg Todtensonntag",
+          "source": "aufnahme + wiedergabe"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8688,6 +8700,7 @@
     "https://aufnahmeundwiedergabe.bandcamp.com/album/absolute-times-of-upheaval",
     "https://aufnahmeundwiedergabe.bandcamp.com/album/decivilization",
     "https://aufnahmeundwiedergabe.bandcamp.com/album/der-flieder-brennt",
+    "https://aufnahmeundwiedergabe.bandcamp.com/album/ein-sarg",
     "https://aufnahmeundwiedergabe.bandcamp.com/album/f-nfzehn-ein-hit-in-grau",
     "https://aufnahmeundwiedergabe.bandcamp.com/album/freakshow-lullabies-and-nightmares",
     "https://aufnahmeundwiedergabe.bandcamp.com/album/i-poslije-linije-linija",
@@ -13311,6 +13324,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-21T14:39:59.905584+00:00",
+  "last_checked": "2026-11-22T14:35:28.343422+00:00",
   "failed_catalogues": []
 }
