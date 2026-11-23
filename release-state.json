@@ -1518,6 +1518,7 @@
       "name": "Coniferous Myst",
       "url": "https://conifmyst.bandcamp.com/music",
       "releases": [
+        "https://conifmyst.bandcamp.com/album/a-forgone-oceanic-kingdom-ii",
         "https://conifmyst.bandcamp.com/album/beasts-beneath-the-forest-tavern",
         "https://conifmyst.bandcamp.com/album/bravery-honor",
         "https://conifmyst.bandcamp.com/album/demo-iii-oath-of-a-valiant-fellowship",
@@ -1525,6 +1526,7 @@
         "https://conifmyst.bandcamp.com/album/forest-rehearsal-81926",
         "https://conifmyst.bandcamp.com/album/ghosts-of-winter",
         "https://conifmyst.bandcamp.com/album/knight-of-the-wyvern-covenant-vi",
+        "https://conifmyst.bandcamp.com/album/knightly-servants-of-sorcery",
         "https://conifmyst.bandcamp.com/album/pride-faith",
         "https://conifmyst.bandcamp.com/album/scales-within-the-skies-of-craal",
         "https://conifmyst.bandcamp.com/album/spalted-tapestry",
@@ -8379,6 +8381,22 @@
           "source": "aufnahme + wiedergabe"
         }
       ]
+    },
+    {
+      "day": "2026-11-23",
+      "pubDate": "Mon, 23 Nov 2026 18:09:32 GMT",
+      "releases": [
+        {
+          "url": "https://conifmyst.bandcamp.com/album/knightly-servants-of-sorcery",
+          "title": "Knightly Servants of Sorcery Cursed Steel",
+          "source": "Coniferous Myst"
+        },
+        {
+          "url": "https://conifmyst.bandcamp.com/album/a-forgone-oceanic-kingdom-ii",
+          "title": "A Forgone Oceanic Kingdom II Devonian Dawn",
+          "source": "Coniferous Myst"
+        }
+      ]
     }
   ],
   "seen": [
@@ -9331,6 +9349,7 @@
     "https://coldinberlin.bandcamp.com/album/wounds",
     "https://coldtransmissionmusic.bandcamp.com/album/cold-transmission-festival-2026",
     "https://concretelawn.bandcamp.com/album/concrete-lawn?label=3339347384&tab=music",
+    "https://conifmyst.bandcamp.com/album/a-forgone-oceanic-kingdom-ii",
     "https://conifmyst.bandcamp.com/album/beasts-beneath-the-forest-tavern",
     "https://conifmyst.bandcamp.com/album/bravery-honor",
     "https://conifmyst.bandcamp.com/album/demo-iii-oath-of-a-valiant-fellowship",
@@ -9338,6 +9357,7 @@
     "https://conifmyst.bandcamp.com/album/forest-rehearsal-81926",
     "https://conifmyst.bandcamp.com/album/ghosts-of-winter",
     "https://conifmyst.bandcamp.com/album/knight-of-the-wyvern-covenant-vi",
+    "https://conifmyst.bandcamp.com/album/knightly-servants-of-sorcery",
     "https://conifmyst.bandcamp.com/album/pride-faith",
     "https://conifmyst.bandcamp.com/album/scales-within-the-skies-of-craal",
     "https://conifmyst.bandcamp.com/album/spalted-tapestry",
@@ -13324,6 +13344,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-22T14:35:28.343422+00:00",
+  "last_checked": "2026-11-23T18:09:32.098563+00:00",
   "failed_catalogues": []
 }
