@@ -389,6 +389,7 @@
         "https://forrestsw.bandcamp.com/track/strangers?label=3767885783&tab=music",
         "https://h5zel.bandcamp.com/album/ha-zel?label=3767885783&tab=music",
         "https://hollowsunsjpn.bandcamp.com/album/back-to-dust?label=3767885783&tab=music",
+        "https://honorchoir.bandcamp.com/track/are-we-friends?label=3767885783&tab=music",
         "https://honorchoir.bandcamp.com/track/halo?label=3767885783&tab=music",
         "https://lovecry.bandcamp.com/album/you-mean-it?label=3767885783&tab=music",
         "https://movingdaybrighton.bandcamp.com/album/forever-till-tomorrow-ends?label=3767885783&tab=music",
@@ -8397,6 +8398,17 @@
           "source": "Coniferous Myst"
         }
       ]
+    },
+    {
+      "day": "2026-11-24",
+      "pubDate": "Tue, 24 Nov 2026 17:45:08 GMT",
+      "releases": [
+        {
+          "url": "https://honorchoir.bandcamp.com/track/are-we-friends?label=3767885783&tab=music",
+          "title": "Are We Friends? Honor Choir",
+          "source": "Sunday Drive Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -10570,6 +10582,7 @@
     "https://holygeometrytapes.bandcamp.com/album/vanity-of-the-broken-man",
     "https://holymotorsband.bandcamp.com/album/heavens-night?label=1477173641&tab=music",
     "https://holymotorsband.bandcamp.com/track/heavens-night?label=1477173641&tab=music",
+    "https://honorchoir.bandcamp.com/track/are-we-friends?label=3767885783&tab=music",
     "https://honorchoir.bandcamp.com/track/halo?label=3767885783&tab=music",
     "https://horsejumperoflove.bandcamp.com/album/horse-jumper-of-love-10-year-anniversary-edition?label=3305573312&tab=music",
     "https://hospitalproductions.bandcamp.com/album/baghdad-1991-baghdad-2003",
@@ -13344,6 +13357,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-23T18:09:32.098563+00:00",
+  "last_checked": "2026-11-24T17:45:08.927680+00:00",
   "failed_catalogues": []
 }
