@@ -1057,6 +1057,7 @@
         "https://discreetmusicgbg.bandcamp.com/album/farv-l-falkenberg",
         "https://discreetmusicgbg.bandcamp.com/album/guitars-infernal",
         "https://discreetmusicgbg.bandcamp.com/album/gwethilu-songs-for-the-dark-lake",
+        "https://discreetmusicgbg.bandcamp.com/album/halvs-mn",
         "https://discreetmusicgbg.bandcamp.com/album/kaksin",
         "https://discreetmusicgbg.bandcamp.com/album/kite",
         "https://discreetmusicgbg.bandcamp.com/album/last",
@@ -1873,6 +1874,7 @@
       "url": "https://coldtransmissionmusic.bandcamp.com/music",
       "releases": [
         "https://coldtransmissionmusic.bandcamp.com/album/cold-transmission-festival-2026",
+        "https://coldtransmissionmusic.bandcamp.com/album/zeitgeist-vol-16",
         "https://cryingvessel.bandcamp.com/track/angels-of-ruin?label=2685981971&tab=music",
         "https://cryingvessel.bandcamp.com/track/social-panic?label=2685981971&tab=music",
         "https://danielknutz.bandcamp.com/album/echoes-album?label=2685981971&tab=music",
@@ -6679,6 +6681,7 @@
         "https://avantrecords.bandcamp.com/album/gilt",
         "https://avantrecords.bandcamp.com/album/hasta-tocar-el-fondo-vac-o-del-lenguaje",
         "https://avantrecords.bandcamp.com/album/l-zire",
+        "https://avantrecords.bandcamp.com/album/my-silhouette",
         "https://avantrecords.bandcamp.com/album/parad-sco",
         "https://avantrecords.bandcamp.com/album/sans-filtre",
         "https://avantrecords.bandcamp.com/album/silver-tears",
@@ -6780,6 +6783,7 @@
         "https://potpot.bandcamp.com/album/warsaw-480km-deluxe-edition?label=3542328873&tab=music",
         "https://potpot.bandcamp.com/album/warsaw-480km?label=3542328873&tab=music",
         "https://ritualhowls.bandcamp.com/album/ruin?label=3542328873&tab=music",
+        "https://shakitavi.bandcamp.com/album/minor-slip-remixes?label=3542328873&tab=music",
         "https://shakitavi.bandcamp.com/album/minor-slip?label=3542328873&tab=music",
         "https://vulturefeather.bandcamp.com/album/craving-and-aversion?label=3542328873&tab=music"
       ]
@@ -8409,6 +8413,32 @@
           "source": "Sunday Drive Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-25",
+      "pubDate": "Wed, 25 Nov 2026 17:14:05 GMT",
+      "releases": [
+        {
+          "url": "https://discreetmusicgbg.bandcamp.com/album/halvs-mn",
+          "title": "Halvsömn Eftergift",
+          "source": "Discreet Music"
+        },
+        {
+          "url": "https://coldtransmissionmusic.bandcamp.com/album/zeitgeist-vol-16",
+          "title": "ZEITGEIST VOL. 16 A COLD TRANSMISSION compilation (various artists)",
+          "source": "COLD TRANSMISSION MUSIC"
+        },
+        {
+          "url": "https://avantrecords.bandcamp.com/album/my-silhouette",
+          "title": "My Silhouette ROSE CHAMBER",
+          "source": "AVANT! Records"
+        },
+        {
+          "url": "https://shakitavi.bandcamp.com/album/minor-slip-remixes?label=3542328873&tab=music",
+          "title": "Minor Slip Remixes Shaki Tavi",
+          "source": "Felte Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -8805,6 +8835,7 @@
     "https://avantrecords.bandcamp.com/album/gilt",
     "https://avantrecords.bandcamp.com/album/hasta-tocar-el-fondo-vac-o-del-lenguaje",
     "https://avantrecords.bandcamp.com/album/l-zire",
+    "https://avantrecords.bandcamp.com/album/my-silhouette",
     "https://avantrecords.bandcamp.com/album/parad-sco",
     "https://avantrecords.bandcamp.com/album/sans-filtre",
     "https://avantrecords.bandcamp.com/album/silver-tears",
@@ -9360,6 +9391,7 @@
     "https://coldinberlin.bandcamp.com/album/white-horse-e-p",
     "https://coldinberlin.bandcamp.com/album/wounds",
     "https://coldtransmissionmusic.bandcamp.com/album/cold-transmission-festival-2026",
+    "https://coldtransmissionmusic.bandcamp.com/album/zeitgeist-vol-16",
     "https://concretelawn.bandcamp.com/album/concrete-lawn?label=3339347384&tab=music",
     "https://conifmyst.bandcamp.com/album/a-forgone-oceanic-kingdom-ii",
     "https://conifmyst.bandcamp.com/album/beasts-beneath-the-forest-tavern",
@@ -9804,6 +9836,7 @@
     "https://discreetmusicgbg.bandcamp.com/album/farv-l-falkenberg",
     "https://discreetmusicgbg.bandcamp.com/album/guitars-infernal",
     "https://discreetmusicgbg.bandcamp.com/album/gwethilu-songs-for-the-dark-lake",
+    "https://discreetmusicgbg.bandcamp.com/album/halvs-mn",
     "https://discreetmusicgbg.bandcamp.com/album/kaksin",
     "https://discreetmusicgbg.bandcamp.com/album/kite",
     "https://discreetmusicgbg.bandcamp.com/album/last",
@@ -12301,6 +12334,7 @@
     "https://shadowhouse.bandcamp.com/album/resurrection-records-4way-split",
     "https://shadowhouse.bandcamp.com/album/walking-in-the-air-lathe-cut",
     "https://shadowshold.bandcamp.com/track/not-much-to-say?label=2685981971&tab=music",
+    "https://shakitavi.bandcamp.com/album/minor-slip-remixes?label=3542328873&tab=music",
     "https://shakitavi.bandcamp.com/album/minor-slip?label=3542328873&tab=music",
     "https://shamebanduk.bandcamp.com/album/born-in-luton-remixes",
     "https://shamebanduk.bandcamp.com/album/cutthroat",
@@ -13357,6 +13391,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-24T17:45:08.927680+00:00",
+  "last_checked": "2026-11-25T17:14:05.690090+00:00",
   "failed_catalogues": []
 }
