@@ -5439,6 +5439,7 @@
         "https://clandestinerecords.bandcamp.com/album/hypervigilance",
         "https://clandestinerecords.bandcamp.com/album/kassetek-001",
         "https://clandestinerecords.bandcamp.com/album/mega-bass-2",
+        "https://clandestinerecords.bandcamp.com/album/misanthropic-nihilist-front",
         "https://clandestinerecords.bandcamp.com/album/schei-auf-die-welt",
         "https://clandestinerecords.bandcamp.com/album/the-140-tapes-vol-2",
         "https://clandestinerecords.bandcamp.com/album/thee-alpha-thee-omega-red-babylon",
@@ -8439,6 +8440,17 @@
           "source": "Felte Records"
         }
       ]
+    },
+    {
+      "day": "2026-11-26",
+      "pubDate": "Thu, 26 Nov 2026 16:54:22 GMT",
+      "releases": [
+        {
+          "url": "https://clandestinerecords.bandcamp.com/album/misanthropic-nihilist-front",
+          "title": "MISANTHROPIC NIHILIST FRONT STOIC YOUTH",
+          "source": "Clan Destine Records"
+        }
+      ]
     }
   ],
   "seen": [
@@ -9350,6 +9362,7 @@
     "https://clandestinerecords.bandcamp.com/album/hypervigilance",
     "https://clandestinerecords.bandcamp.com/album/kassetek-001",
     "https://clandestinerecords.bandcamp.com/album/mega-bass-2",
+    "https://clandestinerecords.bandcamp.com/album/misanthropic-nihilist-front",
     "https://clandestinerecords.bandcamp.com/album/schei-auf-die-welt",
     "https://clandestinerecords.bandcamp.com/album/the-140-tapes-vol-2",
     "https://clandestinerecords.bandcamp.com/album/thee-alpha-thee-omega-red-babylon",
@@ -13391,6 +13404,6 @@
     "https://youbetband.bandcamp.com/track/deny?label=798904330&tab=music",
     "https://zaumne.bandcamp.com/album/only-good-dreams-for-me?label=1845603793&tab=music"
   ],
-  "last_checked": "2026-11-25T17:14:05.690090+00:00",
+  "last_checked": "2026-11-26T16:54:22.310389+00:00",
   "failed_catalogues": []
 }
